@@ -1,1 +1,239 @@
-IyDos4fmlpnmoLzlvI/oqqrmmI4KCj4g5pys5paH5Lu25pivIGBQUk9NUFRfVEVNUExBVEUubWRgIFBoYXNlIDIg55qE5qyE5L2N5Y+D6ICD44CCCj4g6LOH5paZ55SxIEFJIOS+neWTgeizquaomea6lueUn+aIkO+8jOS9v+eUqOiAheeEoemcgOaJi+WLleWhq+Wvq+OAggoK5pys5paH5qqU6Kqq5piOIGB0ZW1wbGF0ZS5odG1sYCDkuK3miYDmnInlj6/kv67mlLnnmoTos4fmlpnntZDmp4vjgIIKCiMjIOebrumMhAoKMS4gW0NBVFMg4oCUIOWIhumhnl0oIzEtY2F0cy0t5YiG6aGeKQoyLiBbS1BTIOKAlCDnn6XorZjljaFdKCMyLWtwcy0t55+l6K2Y5Y2hKQozLiBbUVVFU1RJT05TIOKAlCDpoYzluqtdKCMzLXF1ZXN0aW9ucy0t6aGM5bqrKQo0LiBbRU4g4oCUIOiLseaWh+e/u+itr10oIzQtZW4tLeiLseaWh+e/u+itrykKNS4gW05VTUJFUlMg4oCUIOmXnOmNteaVuOWtl10oIzUtbnVtYmVycy0t6Zec6Y215pW45a2XKQo2LiBbRk9STVVMQVMg4oCUIOWFrOW8j10oIzYtZm9ybXVsYXMtLeWFrOW8jykKNy4gW1JFQ09HIOKAlCDogIPoqabovqjorZhdKCM3LXJlY29nLS3ogIPoqabovqjorZgpCjguIFtUU19JRFMgLyBQUk9DX0lEU10oIzgtdHNfaWRzLS1wcm9jX2lkcykKOS4gW0VSUlRZUEVTIOKAlCDpjK/oqqTpoZ7lnotdKCM5LWVycnR5cGVzLS3pjK/oqqTpoZ7lnospCgotLS0KCiMjIDEuIENBVFMg4oCUIOWIhumhngoKYGBgamF2YXNjcmlwdApjb25zdCBDQVRTPVsKICB7aWQ6ImNhdDEiLCB6aDoi5YiG6aGe5LiAIiwgZW46IkNhdGVnb3J5IE9uZSJ9LAogIHtpZDoiY2F0MiIsIHpoOiLliIbpoZ7kuowiLCBlbjoiQ2F0ZWdvcnkgVHdvIn0sCl07CmBgYAoKfCDmrITkvY0gfCDlv4XloasgfCDoqqrmmI4gfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS18CnwgaWQgfCDinJMgfCDllK/kuIDoi7HmlocgSUTvvIzpoYznm67nlKggYGNhdGAg6Zec6IGvIHwKfCB6aCB8IOKckyB8IOS4reaWh+WQjeeosSB8CnwgZW4gfCDinJMgfCDoi7HmloflkI3nqLEgfAoKLS0tCgojIyAyLiBLUFMg4oCUIOefpeitmOWNoQoKYGBgamF2YXNjcmlwdApjb25zdCBLUFM9WwogIHsKICAgIGlkOiJzYW1wbGVfa3AxIiwgICAgICAgLy8g5ZSv5LiAIElECiAgICBjYXQ6ImNhdDEiLCAgICAgICAgICAgIC8vIOaJgOWxrOWIhumhniBJRAogICAgdGVybToiU2FtcGxlIFRlcm0gT25lIiwgLy8g6Iux5paH6KGT6KqeCiAgICB6aDoi56+E5L6L6KGT6Kqe5LiAIiwgICAgICAgIC8vIOS4reaWh+WQjeeosQogICAgZGVmOiLkuK3mloflrprnvqkiLCAgICAgICAgIC8vIOaYr+S7gOm6vAogICAgZGVmX2VuOiJFbmdsaXNoIGRlZmluaXRpb24iLAogICAgZm46IuS4reaWh+S9nOeUqCIsICAgICAgICAgIC8vIOWBmuS7gOm6vAogICAgZm5fZW46IkVuZ2xpc2ggZnVuY3Rpb24iLAogICAgaG93OiLkuK3mlofpgYvkvZzmlrnlvI8iLCAgICAgLy8g5oCO6bq86YGL5L2cCiAgICBob3dfZW46IkVuZ2xpc2ggaG93IiwKICAgIGNtcDoi5Lit5paH5Y2A5YilIiwgICAgICAgICAvLyDoiIfnm7jkvLzmpoLlv7XnmoTljYDliKUKICAgIGNtcF9lbjoiRW5nbGlzaCBkaXN0aW5jdGlvbiIsCiAgICBudW1zOlsi6KaB6bue5LiAIl0sICAgICAgICAvLyDlv4Xog4zopoHpu57vvIjkuK3mlofpmaPliJfvvIkKICAgIG51bXNfZW46WyJLZXkgZmFjdCBvbmUiXSwKICAgIG1pczpbIumZt+mYseS4gCJdLCAgICAgICAgIC8vIOW4uOimi+mZt+mYse+8iOS4reaWh+mZo+WIl++8iQogICAgbWlzX2VuOlsiVHJhcCBvbmUiXSwKICAgIHByZTpbIm90aGVyX2twX2lkIl0sICAgLy8g5YmN572u55+l6K2Y6bueIElE77yI6YG45aGr77yJCiAgICBpbWc6ImltYWdlcy9waWMucG5nIiwgIC8vIOmFjeWclui3r+W+ke+8iOmBuOWhq++8iQogIH0sCl07CmBgYAoKKirms6jmhI8qKu+8mmBfZW5gIOashOS9jeiLpee8uuWkse+8jOiLseaWh+aooeW8j+acg+mhr+ekuuS4reaWh+WOn+aWh+OAggoKLS0tCgojIyAzLiBRVUVTVElPTlMg4oCUIOmhjOW6qwoKIyMjIOmBuOaTh+mhjCAobWMpCgpgYGBqYXZhc2NyaXB0CnsKICBpZDoicTEiLCAgICAgICAgICAgICAgLy8g5ZSv5LiAIElECiAgY2F0OiJjYXQxIiwgICAgICAgICAgIC8vIOWIhumhniBJRAogIGtwOiJzYW1wbGVfa3AxIiwgICAgICAvLyDnn6XorZjpu54gSUQKICB0OiJtYyIsICAgICAgICAgICAgICAgLy8g6aGM5Z6LCiAgcToi6aGM55uu77yI5Lit5paH77yJIiwKICBvcHRzOlsi6YG46aCFQSIsIumBuOmghUIiLCLpgbjpoIVDIiwi6YG46aCFRCJdLAogIGE6MSwgICAgICAgICAgICAgICAgICAvLyDmraPnorrnrZTmoYjntKLlvJXvvIgwIOi1t++8iQogIG9lOlsgICAgICAgICAgICAgICAgICAvLyDmr4/lgIvpgbjpoIXnmoTlsIjlsazop6PmnpDvvIjoiIcgb3B0cyDkuIDkuIDlsI3mh4nvvIkKICAgICLpgbjpoIVB6Yyv6Kqk55qE5Y6f5ZugIiwKICAgICLmraPnorrvvJrpgbjpoIVC5q2j56K655qE5Y6f5ZugIiwKICAgICLpgbjpoIVD6Yyv6Kqk55qE5Y6f5ZugIiwKICAgICLpgbjpoIVE6Yyv6Kqk55qE5Y6f5ZugIgogIF0sCiAgZXhwOiLmlbTpq5Top6PmnpAiLAogIGNjOiLmmJPmt7fmt4bmj5DphpIiLAogIGRpZjoxLCAgICAgICAgICAgICAgICAvLyDpm6PluqYgMS0zCiAga2V5czpbIumXnOmNteWtlyJdLCAgICAgICAvLyDpl5zpjbXlrZfpmaPliJcKfQpgYGAKCiMjIyDmmK/pnZ7poYwgKHRmKQoKYGBgamF2YXNjcmlwdAp7CiAgaWQ6InEzIiwgY2F0OiJjYXQxIiwga3A6InNhbXBsZV9rcDEiLCB0OiJ0ZiIsCiAgcToi6aGM55uu5pWY6L+wIiwKICBhOnRydWUsICAgICAgICAgICAgICAgLy8gdHJ1ZS9mYWxzZQogIGV4cDoi6Kej5p6QIiwKICBjYzoi5piT5re35reG5o+Q6YaSIiwKICBkaWY6MSwKICBrZXlzOlsi6Zec6Y215a2XIl0sCn0KYGBgCgoqKumpl+itieimj+WJhyoq77yaCi0g5q+P6aGM55qEIGBrcGAg5b+F6aCI5bCN5oeJ5YiwIEtQUyDkuK3nmoQgaWQKLSDmr4/poYznmoQgYGNhdGAg5b+F6aCI5bCN5oeJ5YiwIENBVFMg5Lit55qEIGlkCi0g6YG45pOH6aGM55qEIGBvZWAg6ZW35bqm5b+F6aCI562J5pa8IGBvcHRzYCDplbfluqYKLSBgYWAg5b+F6aCI5piv5pyJ5pWI55qE57Si5byVCgotLS0KCiMjIDQuIEVOIOKAlCDoi7Hmlofnv7vora8KCumhjOebrumgkOioremhr+ekuuiLseaWh+OAguiLpeafkOmhjOeEoeiLseaWh+eJiO+8jOWJh+mhr+ekuuS4reaWh+WOn+aWh+OAggoKYGBgamF2YXNjcmlwdApjb25zdCBFTj17fTsKRU5bInExIl09ewogIHE6IkVuZ2xpc2ggcXVlc3Rpb24iLAogIG86WyJvcHQxIiwib3B0MiIsIm9wdDMiLCJvcHQ0Il0sICAvLyDpgbjpoIXoi7HmlofvvIjpoIbluo/oiIfkuK3mlofkuIDoh7TvvIkKICBlOiJFbmdsaXNoIGV4cGxhbmF0aW9uIiwKICBjOiJFbmdsaXNoIGNvbmZ1c2lvbiBub3RlIiwKICBrOlsia2V5d29yZCJdLCAgICAgICAgICAgICAgICAgICAgIC8vIOmXnOmNteWtl+iLseaWhwogIHc6WyJ3aHkgb3B0MSB3cm9uZyIsICJjb3JyZWN0OiB3aHkgb3B0MiByaWdodCIsIC4uLl0sIC8vIG9lIOiLseaWhwp9OwpFTlsicTMiXT17CiAgcToiRW5nbGlzaCB0cnVlL2ZhbHNlIHN0YXRlbWVudCIsCiAgZToiRW5nbGlzaCBleHBsYW5hdGlvbiIsCiAgYzoiRW5nbGlzaCBjb25mdXNpb24gbm90ZSIsCiAgazpbImtleXdvcmQiXSwKfTsKYGBgCgotLS0KCiMjIDUuIE5VTUJFUlMg4oCUIOmXnOmNteaVuOWtlwoKYGBgamF2YXNjcmlwdApjb25zdCBOVU1CRVJTPVsKICB7bjoiMTAwIiwgbToi5Lit5paH5oSP576pIiwgbV9lbjoiRW5nbGlzaCBtZWFuaW5nIiwga3A6InNhbXBsZV9rcDEifSwKXTsKLy8g54Sh5YmH6Kit54K656m66Zmj5YiXCmBgYAoKLS0tCgojIyA2LiBGT1JNVUxBUyDigJQg5YWs5byPCgrlj6/oh6rli5XnlJ/miJDnt7Tnv5LpoYznmoTlhazlvI/vvJoKCmBgYGphdmFzY3JpcHQKY29uc3QgRk9STVVMQVM9WwogIHsKICAgIGlkOiJmMSIsCiAgICBuYW1lOiLkuK3mloflkI0iLAogICAgbmFtZV9lbjoiRW5nbGlzaCBuYW1lIiwKICAgIGZvcm11bGE6IkMgPSBBICsgQiIsCiAgICBrcDoic2FtcGxlX2twMSIsCiAgICBnZW4oKXsKICAgICAgY29uc3QgQT1NYXRoLmZsb29yKE1hdGgucmFuZG9tKCkqMTApKzE7CiAgICAgIGNvbnN0IEI9TWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpKjEwKSsxOwogICAgICBjb25zdCBlbj1MQU5HPT09J2VuJzsKICAgICAgcmV0dXJuIHsKICAgICAgICBxOiBlbiA/IGBBPSR7QX0sIEI9JHtCfSwgZmluZCBDYCA6IGBBPSR7QX3vvIxCPSR7Qn3vvIzmsYIgQ2AsCiAgICAgICAgYTogQStCLCAgICAgICAvLyDmlbjlrZfnrZTmoYgKICAgICAgICB0b2w6IDAuMSwgICAgIC8vIOWuueioseiqpOW3rgogICAgICAgIHVuaXQ6ICIiLCAgICAgLy8g5Zau5L2NCiAgICAgICAgaGludDogYEMgPSAke0F9ICsgJHtCfWAsCiAgICAgIH07CiAgICB9CiAgfSwKXTsKYGBgCgotLS0KCiMjIDcuIFJFQ09HIOKAlCDogIPoqabovqjorZgKCuW/q+mAn+iomOaGtuWNoe+8iOeci+WIsOaPkOekuuWwseWPjeaHieetlOahiO+8ie+8mgoKYGBgamF2YXNjcmlwdApjb25zdCBSRUNPRz1bCiAge2N1ZToi5o+Q56S6IiwgY3VlX2VuOiJFbmdsaXNoIGN1ZSIsCiAgIGE6IuetlOahiCIsIGFfZW46IkVuZ2xpc2ggYW5zd2VyIiwKICAga3A6InNhbXBsZV9rcDEifSwKXTsKYGBgCgotLS0KCiMjIDguIFRTX0lEUyAvIFBST0NfSURTCgrmlYXpmpzoqLrmlrcgLyDnqIvluo/oqJPnt7TmqKHlvI/nlKjnmoTpoYznm64gSUTvvJoKCmBgYGphdmFzY3JpcHQKY29uc3QgVFNfSURTPVsicTEiLCJxNCJdOyAgIC8vIOaDheWig+mhjCBJRApjb25zdCBQUk9DX0lEUz1bInEyIl07ICAgICAgIC8vIOeoi+W6j+mhjCBJRAovLyDnhKHliYfoqK3ngrrnqbrpmaPliJcKYGBgCgotLS0KCiMjIDkuIEVSUlRZUEVTIOKAlCDpjK/oqqTpoZ7lnosKCumgkOiorSAxMCDnqK7pgJrnlKjpjK/oqqTpoZ7lnovvvIzkuIDoiKzkuI3pnIDkv67mlLnvvJoKCmBgYGphdmFzY3JpcHQKY29uc3QgRVJSVFlQRVM9WwogIFsiY29uY2VwdCIsIuamguW/temMryIsIkNvbmNlcHQgZXJyb3IiXSwKICBbImRlZmluaXRpb24iLCLlrprnvqnpjK8iLCJEZWZpbml0aW9uIGVycm9yIl0sCiAgWyJjYWxjdWxhdGlvbiIsIuioiOeul+mMryIsIkNhbGN1bGF0aW9uIGVycm9yIl0sCiAgWyJ1bml0Iiwi5Zau5L2N6YyvIiwiVW5pdCBlcnJvciJdLAogIFsicHJvY2VkdXJlIiwi56iL5bqP6YyvIiwiUHJvY2VkdXJlIGVycm9yIl0sCiAgWyJzZXF1ZW5jZSIsIumghuW6j+mMryIsIlNlcXVlbmNlIGVycm9yIl0sCiAgWyJsb2NhdGlvbiIsIuS9jee9rumMryIsIkxvY2F0aW9uIGVycm9yIl0sCiAgWyJ0ZXJtaW5vbG9neSIsIuihk+iqnumMryIsIlRlcm1pbm9sb2d5IGVycm9yIl0sCiAgWyJyZWNvZ25pdGlvbiIsIumhjOebrui+qOitmOmMryIsIlJlY29nbml0aW9uIGVycm9yIl0sCiAgWyJjYXJlbGVzcyIsIueyl+W/g+mMryIsIkNhcmVsZXNzIGVycm9yIl0sCl07CmBgYAoKLS0tCgojIyDmqqLmn6XmuIXllq4KCuWhq+WFpeizh+aWmeW+jO+8jOeiuuiqje+8mgoKLSBbIF0g5omA5pyJ6aGM55uu55qEIGBrcGAg6YO95pyJ5bCN5oeJ55qE55+l6K2Y5Y2hCi0gWyBdIOaJgOaciemhjOebrueahCBgY2F0YCDpg73mnInlsI3mh4nnmoTliIbpoZ4KLSBbIF0g6YG45pOH6aGMIGBvZWAg6ZW35bqmID0gYG9wdHNgIOmVt+W6pgotIFsgXSBgYWAg57Si5byV5pyJ5pWICi0gWyBdIElEIOeEoemHjeikhwotIFsgXSBgbG9jYWxTdG9yYWdlYCBrZXkg5bey5pS554K65ZSv5LiA5YC877yI6YG/5YWN6IiH5YW25LuW56eR55uu6KGd56qB77yJCg==
+# 資料格式說明
+
+> 本文件是 `PROMPT_TEMPLATE.md` Phase 2 的欄位參考。
+> 資料由 AI 依品質標準生成，使用者無需手動填寫。
+
+本文檔說明 `template.html` 中所有可修改的資料結構。
+
+## 目錄
+
+1. [CATS — 分類](#1-cats--分類)
+2. [KPS — 知識卡](#2-kps--知識卡)
+3. [QUESTIONS — 題庫](#3-questions--題庫)
+4. [EN — 英文翻譯](#4-en--英文翻譯)
+5. [NUMBERS — 關鍵數字](#5-numbers--關鍵數字)
+6. [FORMULAS — 公式](#6-formulas--公式)
+7. [RECOG — 考試辨識](#7-recog--考試辨識)
+8. [TS_IDS / PROC_IDS](#8-ts_ids--proc_ids)
+9. [ERRTYPES — 錯誤類型](#9-errtypes--錯誤類型)
+
+---
+
+## 1. CATS — 分類
+
+```javascript
+const CATS=[
+  {id:"cat1", zh:"分類一", en:"Category One"},
+  {id:"cat2", zh:"分類二", en:"Category Two"},
+];
+```
+
+| 欄位 | 必填 | 說明 |
+|------|------|------|
+| id | ✓ | 唯一英文 ID，題目用 `cat` 關聯 |
+| zh | ✓ | 中文名稱 |
+| en | ✓ | 英文名稱 |
+
+---
+
+## 2. KPS — 知識卡
+
+```javascript
+const KPS=[
+  {
+    id:"sample_kp1",       // 唯一 ID
+    cat:"cat1",            // 所屬分類 ID
+    term:"Sample Term One", // 英文術語
+    zh:"範例術語一",        // 中文名稱
+    def:"中文定義",         // 是什麼
+    def_en:"English definition",
+    fn:"中文作用",          // 做什麼
+    fn_en:"English function",
+    how:"中文運作方式",     // 怎麼運作
+    how_en:"English how",
+    cmp:"中文區別",         // 與相似概念的區別
+    cmp_en:"English distinction",
+    nums:["要點一"],        // 必背要點（中文陣列）
+    nums_en:["Key fact one"],
+    mis:["陷阱一"],         // 常見陷阱（中文陣列）
+    mis_en:["Trap one"],
+    pre:["other_kp_id"],   // 前置知識點 ID（選填）
+    img:"images/pic.png",  // 配圖路徑（選填）
+  },
+];
+```
+
+**注意**：`_en` 欄位若缺失，英文模式會顯示中文原文。
+
+---
+
+## 3. QUESTIONS — 題庫
+
+### 選擇題 (mc)
+
+```javascript
+{
+  id:"q1",              // 唯一 ID
+  cat:"cat1",           // 分類 ID
+  kp:"sample_kp1",      // 知識點 ID
+  t:"mc",               // 題型
+  q:"題目（中文）",
+  opts:["選項A","選項B","選項C","選項D"],
+  a:1,                  // 正確答案索引（0 起）
+  oe:[                  // 每個選項的專屬解析（與 opts 一一對應）
+    "選項A錯誤的原因",
+    "正確：選項B正確的原因",
+    "選項C錯誤的原因",
+    "選項D錯誤的原因"
+  ],
+  exp:"整體解析",
+  cc:"易混淆提醒",
+  dif:1,                // 難度 1-3
+  keys:["關鍵字"],       // 關鍵字陣列
+}
+```
+
+### 是非題 (tf)
+
+```javascript
+{
+  id:"q3", cat:"cat1", kp:"sample_kp1", t:"tf",
+  q:"題目敘述",
+  a:true,               // true/false
+  exp:"解析",
+  cc:"易混淆提醒",
+  dif:1,
+  keys:["關鍵字"],
+}
+```
+
+**驗證規則**：
+- 每題的 `kp` 必須對應到 KPS 中的 id
+- 每題的 `cat` 必須對應到 CATS 中的 id
+- 選擇題的 `oe` 長度必須等於 `opts` 長度
+- `a` 必須是有效的索引
+
+---
+
+## 4. EN — 英文翻譯
+
+題目預設顯示英文。若某題無英文版，則顯示中文原文。
+
+```javascript
+const EN={};
+EN["q1"]={
+  q:"English question",
+  o:["opt1","opt2","opt3","opt4"],  // 選項英文（順序與中文一致）
+  e:"English explanation",
+  c:"English confusion note",
+  k:["keyword"],                     // 關鍵字英文
+  w:["why opt1 wrong", "correct: why opt2 right", ...], // oe 英文
+};
+EN["q3"]={
+  q:"English true/false statement",
+  e:"English explanation",
+  c:"English confusion note",
+  k:["keyword"],
+};
+```
+
+---
+
+## 5. NUMBERS — 關鍵數字
+
+```javascript
+const NUMBERS=[
+  {n:"100", m:"中文意義", m_en:"English meaning", kp:"sample_kp1"},
+];
+// 無則設為空陣列
+```
+
+---
+
+## 6. FORMULAS — 公式
+
+可自動生成練習題的公式：
+
+```javascript
+const FORMULAS=[
+  {
+    id:"f1",
+    name:"中文名",
+    name_en:"English name",
+    formula:"C = A + B",
+    kp:"sample_kp1",
+    gen(){
+      const A=Math.floor(Math.random()*10)+1;
+      const B=Math.floor(Math.random()*10)+1;
+      const en=LANG==='en';
+      return {
+        q: en ? `A=${A}, B=${B}, find C` : `A=${A}，B=${B}，求 C`,
+        a: A+B,       // 數字答案
+        tol: 0.1,     // 容許誤差
+        unit: "",     // 單位
+        hint: `C = ${A} + ${B}`,
+      };
+    }
+  },
+];
+```
+
+---
+
+## 7. RECOG — 考試辨識
+
+快速記憶卡（看到提示就反應答案）：
+
+```javascript
+const RECOG=[
+  {cue:"提示", cue_en:"English cue",
+   a:"答案", a_en:"English answer",
+   kp:"sample_kp1"},
+];
+```
+
+---
+
+## 8. TS_IDS / PROC_IDS
+
+故障診斷 / 程序訓練模式用的題目 ID：
+
+```javascript
+const TS_IDS=["q1","q4"];   // 情境題 ID
+const PROC_IDS=["q2"];       // 程序題 ID
+// 無則設為空陣列
+```
+
+---
+
+## 9. ERRTYPES — 錯誤類型
+
+預設 10 種通用錯誤類型，一般不需修改：
+
+```javascript
+const ERRTYPES=[
+  ["concept","概念錯","Concept error"],
+  ["definition","定義錯","Definition error"],
+  ["calculation","計算錯","Calculation error"],
+  ["unit","單位錯","Unit error"],
+  ["procedure","程序錯","Procedure error"],
+  ["sequence","順序錯","Sequence error"],
+  ["location","位置錯","Location error"],
+  ["terminology","術語錯","Terminology error"],
+  ["recognition","題目辨識錯","Recognition error"],
+  ["careless","粗心錯","Careless error"],
+];
+```
+
+---
+
+## 檢查清單
+
+填入資料後，確認：
+
+- [ ] 所有題目的 `kp` 都有對應的知識卡
+- [ ] 所有題目的 `cat` 都有對應的分類
+- [ ] 選擇題 `oe` 長度 = `opts` 長度
+- [ ] `a` 索引有效
+- [ ] ID 無重複
+- [ ] `localStorage` key 已改為唯一值（避免與其他科目衝突）
