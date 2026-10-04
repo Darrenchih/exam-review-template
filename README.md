@@ -25,10 +25,23 @@
 | `README.md` | 本文件 |
 | `WORKFLOW.md` | **可複製流程**：選語言→給指令→驗證→交付→迭代 |
 | `DATA_FORMAT.md` | 9 種資料結構的欄位說明 |
+| `CONTRIBUTING.md` | 貢獻指南（中英雙語） |
+| `KNOWN_ISSUES.md` | 已知問題追蹤 |
+| `CHANGELOG.md` | 版本更新紀錄 |
 | `template.html` | 基礎模板（英文為主混雜） |
 | `variants/` | 4 套 HTML |
 | `prompts/` | 4 套 AI 指令 |
 | `LICENSE` | MIT 授權 — 每個人都可自由複製、使用、修改、分享 |
+
+## 預覽截圖
+
+| 全英文 | 全中文 |
+|--------|--------|
+| ![英文版 Dashboard](screenshots/en-dashboard.png) | ![中文版 Dashboard](screenshots/zh-dashboard.png) |
+
+| 中英混雜（中文為主） | 中英混雜（英文為主） |
+|----------------------|----------------------|
+| ![中文為主 Dashboard](screenshots/zh-mixed-dashboard.png) | ![英文為主 Dashboard](screenshots/en-mixed-dashboard.png) |
 
 ## 使用方式
 
