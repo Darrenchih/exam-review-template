@@ -1,0 +1,24 @@
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 暫存
+*.tmp
+*.bak
+*.log
+
+# Python（若用腳本處理資料）
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node（若未來加入建置流程）
+node_modules/
