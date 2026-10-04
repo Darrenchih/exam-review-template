@@ -1,1 +1,162 @@
-IyDpgJrnlKjmjIfku6TvvJrnlJ/miJDkuK3oi7Hmt7fpm5zvvIjoi7HmlofngrrkuLvvvInogIPoqabopIfnv5LntrLnq5kKCj4g6Ieq5YyF5ZCr5oyH5Luk44CC5Lu75L2VIEFJIGFnZW50IOiugOWujOacrOaWh+S7tuOAgWAuLi92YXJpYW50cy90ZW1wbGF0ZS1lbi1taXhlZC5odG1sYOOAgQo+IGAuLi9EQVRBX0ZPUk1BVC5tZGAg5b6M5Y2z5Y+v542o56uL5a6M5oiQ5Lu75YuZ77yM54Sh6ZyA6aGN5aSW6IOM5pmv55+l6K2Y44CCCj4KPiAqKuaguOW/g+WOn+WJhyoq77ya55Sf5oiQ55qE57ay56uZ5byV5pOO6IiH5qih5p2/Kirlrozlhajnm7jlkIwqKu+8iOiLseaWh+eCuuS4u++8mumhjOebrumgkOioreiLseaWh++8jFVJIOWPr+WIh+S4reaWh++8ie+8jAo+IOWUr+S4gOeahOW3ruWIpeaYr+efpeitmOm7nuWFp+WuueOAgkFJIOiyoOiyrOeglOeptuenkeebruS4pueUn+aIkOWFqOmDqOWtuOe/kuizh+aWmeOAggoKLS0tCgojIyDku7vli5nmpoLov7AKCuS9v+eUqOiAheacg+aMh+WumuS4gOWAi+enkeebru+8iOS+i+WmguOAjOacieapn+WMluWtuOOAjeOAjOWKoOaLv+Wkp+mnleeFp+ethuippuOAjeOAjOaXpeaWhyBOM+OAje+8ie+8jApBSSDpnIDopoHvvJoKMS4g56CU56m26Kmy56eR55uu55qE6ICD6Kmm6YeN6bue77yI55So6Ieq6Lqr55+l6K2Y77yM5b+F6KaB5pmC5pCc5bCL5pyA5paw6LOH6KiK77yJCjIuIOeUn+aIkOWujOaVtOeahOWtuOe/kuizh+aWme+8iOWIhumhnuOAgeefpeitmOWNoeOAgemhjOebruOAgeaVuOWtl+OAgeWFrOW8j+OAgei+qOitmOWNoe+8iQozLiDloavlhaXmqKHmnb/lvJXmk47vvIzpqZforYnkuKbkuqTku5gKCuS9v+eUqOiAhSoq5LiN6ZyA6KaBKirmj5DkvpvpoYznm67vvIxBSSDoh6rooYzomZXnkIbnn6XorZjpu57lhaflrrnjgIIKCioq6Kqe6KiA6KaP5YmH77yaKioKLSDpoYznm67poJDoqK3oi7HmlofvvIjoiIfogIPoqabkuIDoh7TvvInvvIzkuK3mlofmqKHlvI/kuIvmr4/poYzlj6/lsZXplovkuK3mlofnv7vora/jgIIKLSBVSSDpoJDoqK3oi7HmlofvvIzlj6/liIfmj5vkuK3mlofvvIjkv53nlZnoqp7oqIDliIfmj5vmjInpiJXvvInjgIIKLSDnn6XorZjljaHvvJroi7HmlofmrITkvY3ngrrkuLvvvIhgZGVmX2VuYCDnrYnvvInvvIzkuK3mlofmrITkvY3mj5DkvpvlsI3nhafjgIIKLSBgRU5gIOe/u+itr+ihqO+8muiLseaWh+eJiOmhjOebru+8iOmgkOioremhr+ekuu+8ie+8m+S4reaWh+WOn+aWh+WtmOaWvOWfuuekjuashOS9jeOAggoKLS0tCgojIyDliY3nva7plrHoroDvvIjmjInpoIbluo/vvIkKCjEuICoqYC4uL3ZhcmlhbnRzL3RlbXBsYXRlLWVuLW1peGVkLmh0bWxgKiog4oCUIOW8leaTjuWOn+Wni+eivO+8iOmhjOebrumgkOioreiLseaWh++8jFVJIOWPr+WIh+aPm+S4reaWh++8ieOAggoyLiAqKmBEQVRBX0ZPUk1BVC5tZGAqKiDigJQgOSDnqK7os4fmlpnntZDmp4vnmoTlrozmlbTmrITkvY3oqqrmmI7jgIIKCi0tLQoKIyMg5Z+36KGM5rWB56iLCgojIyMgUGhhc2UgMe+8mueiuuiqjeenkeebruevhOWcjQoK5ZCR5L2/55So6ICF56K66KqN77yI6Iul5L2/55So6ICF5bey57Wm5YmH6Lez6YGO77yJ77yaCgp8IOWVj+mhjCB8IOevhOS+iyB8CnwtLS0tLS18LS0tLS0tfAp8IOenkeebruWQjeeose+8iOS4rS/oi7HvvIkgfCDmnInmqZ/ljJblrbggLyBPcmdhbmljIENoZW1pc3RyeSB8Cnwg6ICD6Kmm56+E5ZyNIHwg5pyf5Lit6ICDIENoYXB0ZXJzIDEtNSAvIOmnleeFpyBHMSDnrYboqaYgfAp8IOmhjOWei+WBj+WlvSB8IOmBuOaTh+mhjOeCuuS4uyAvIOWQq+aYr+mdnumhjCB8Cnwg55uu5qiZ6aGM5pW4IHwg6aCQ6KitIDYwLTEwMCDpoYzvvIjoposgUGhhc2UgMiDmqJnmupbvvIkgfAp8IOacieeEoeaMh+WumuaVmeadkCB8IOiLpeacie+8jOaMieaVmeadkOeCuua6lu+8m+iLpeeEoe+8jOeUqCBBSSDnn6XorZggfAoK56K66KqN5b6M57Wm5Ye6IGxvY2FsU3RvcmFnZSBrZXnvvIjopo/liYfvvJroi7HmloflsI/lr6sr5bqV57eaK+eJiOacrO+8jOWmgiBgb3JnYW5pY19jaGVtX3YxYO+8ieOAggoKIyMjIFBoYXNlIDLvvJrnlJ/miJDlrbjnv5Los4fmlpkKCuaMieS7peS4iyoq5ZOB6LOq5qiZ5rqWKirnlJ/miJDvvIjpgJnmmK/mnKzmqKHmnb/nmoTmoLjlv4Plg7nlgLzvvIzkuI3lj6/miZPmipjvvInvvJoKCiMjIyMgMi4xIOWIhumhniBDQVRT77yIMy04IOWAi++8iQotIOimhuiTi+iAg+ippuevhOWcjeeahOS4u+imgeeroOevgC/kuLvpoYwKLSBge2lkLCB6aCwgZW59YO+8jGlkIOeUqOiLseaWh+Wwj+WvqwoKIyMjIyAyLjIg55+l6K2Y5Y2hIEtQU++8iOavj+WAi+WIhumhniAzLTgg5by177yJCuavj+W8teWNoSoq5omA5pyJ5qyE5L2N6YO96KaB5aGrKirvvIjkuI3lj6/nlZnnqbrvvInvvJoKLSBgZGVmL2RlZl9lbmDvvJrmupbnorrlrprnvqkKLSBgZm4vZm5fZW5g77ya5L2c55SoL+eUqOmAlAotIGBob3cvaG93X2VuYO+8mumBi+S9nOapn+WItu+8iOeUqOesrOS4gOWOn+eQhuiqquaYju+8iQotIGBjbXAvY21wX2VuYO+8muiIh+aYk+a3t+a3huamguW/teeahOWNgOWIpe+8iOiAg+ippuacgOaEm+iAg++8iQotIGBudW1zL251bXNfZW5g77ya5b+F6IOM5pW45a2XL+imgem7nu+8iOiLpeeEoeWJh+epuumZo+WIl++8iQotIGBtaXMvbWlzX2VuYO+8muW4uOimi+mZt+mYse+8iOW+nuWtuOeUn+W4uOmMr+inkuW6puWvq++8iQoKIyMjIyAyLjMg6aGM55uuIFFVRVNUSU9OU++8iDYwLTEwMCDpoYzvvIzpgbjmk4c65piv6Z2eIOKJiCA1OjHvvIkKCioq6YG45pOH6aGM5q+P6aGM5b+F6aCI5YyF5ZCr77yaKioKLSBgcWDvvJrpoYznm67vvIjkuK3mlofvvIkKLSBgb3B0c2DvvJo0IOWAi+mBuOmghe+8jOW5suaTvumBuOmgheW/hemgiOaYryoq5ZCI55CG55qE6Yyv6Kqk562U5qGIKirvvIjlj5boh6rluLjopovoqqTop6PjgIHnm7jkvLzmpoLlv7XjgIHmlbjlrZfmt7fmt4bvvInvvIzkuI3lj6/nlKjmmI7poa/ojZLorKznmoTpgbjpoIXmuYrmlbgKLSBgYWDvvJrmraPnorrntKLlvJUKLSBgb2Vg77yaKirmr4/lgIvpgbjpoIXnmoTlsIjlsazop6PmnpAqKu+8iDQg5YCL77yM6IiHIG9wdHMg5LiA5LiA5bCN5oeJ77yJCiAgLSDnrZTlsI3pgbjpoIXvvJroqqrmmI7ngrrku4DpurzmraPnoroKICAtIOetlOmMr+mBuOmghe+8mumHneWwjeipsumBuOmgheeahOWFt+mrlOmMr+iqpOm7nuism+ino++8iOS+i+WmgumBuOS6hiBBIOWwseismyBBIOmMr+WcqOWTqu+8iQotIGBleHBg77ya5pW06auU6Kej5p6Q77yI6Kyb5riF5qaC5b+177yJCi0gYGNjYO+8muaYk+a3t+a3huaPkOmGku+8iOS4gOWPpeipsem7nuWHuumZt+mYse+8iQotIGBkaWZg77yaMe+8iOWfuuekju+8iS8gMu+8iOS4reetie+8iS8gM++8iOmbo++8iQotIGBrZXlzYO+8mumXnOmNteWtl++8iOeUqOaWvOaQnOWwi+iIh+ikh+e/ku+8iQoKKirmmK/pnZ7poYzvvJoqKgotIOaVmOi/sOW/hemgiOaYryoq5piO56K655qE5Zau5LiA5LqL5a+m5Yik5pa3KirvvIzpgb/lhY3mqKHnqJzlhanlj68KLSBgYWAg54K6IHRydWUvZmFsc2XvvIxgZXhwYCDoqqrmmI7liKTmlrfkvp3mk5oKCioq5Ye66aGM5Y6f5YmH77yaKioKLSDopobok4vmiYDmnInnn6XorZjljaHvvIzmr4/lvLXljaHoh7PlsJEgMi0zIOmhjAotIOmbo+W6puWIhuS9iO+8mmRpZiAxIOS9lCA0MCXvvIxkaWYgMiDkvZQgNDAl77yMZGlmIDMg5L2UIDIwJQotIOaDheWig+mhjO+8muiHs+WwkSAxNSUg5piv5oeJ55So5oOF5aKD6aGM77yI57Wm5aC05pmv5ZWP5Yik5pa377yJ77yM5LiN5Y+q6ICD5q276KiYCi0g5pW45a2X6aGM77ya6Zec6Y215pW45a2X6KaB5Ye65oiQ6aGM55uuCgojIyMjIDIuNCDoi7Hmlofnv7vora8gRU4KLSDmr4/poYzpg73opoHmnInoi7HmlofniYjvvIhgcSwgbywgZSwgYywgaywgd2DvvIkKLSDooZPoqp7kv53nlZnoi7Hmlofljp/mlofvvIznv7vora/opoHoh6rnhLYKCiMjIyMgMi41IE5VTUJFUlMgLyBGT1JNVUxBUyAvIFJFQ09HCi0gTlVNQkVSU++8muipsuenkeebruiAg+ippuW/heiDjOeahOaVuOWtly/luLjmlbgKLSBGT1JNVUxBU++8muacieWFrOW8j+WJh+WBmuWPr+iHquWLleWHuumhjOeahCBgZ2VuKClg77yM54Sh5YmH56m66Zmj5YiXCi0gUkVDT0fvvJrpq5jpoLvovqjorZjpu57vvIjnnIvliLDpl5zpjbXlrZflsLHlj43mh4nnrZTmoYjvvIkKCiMjIyMgMi42IFRTX0lEUyAvIFBST0NfSURTCi0g6Iul56eR55uu5pyJ5pWF6Zqc5o6S6ZmkL+eoi+W6j+a1geeoi+amguW/te+8jOaMkemBuOWwjeaHiemhjOebriBJRO+8m+eEoeWJh+epuumZo+WIlwoKIyMjIFBoYXNlIDPvvJrloavlhaXmqKHmnb8KCmBgYGJhc2gKbWtkaXIgLXAgfi93b3Jrc3BhY2UveW91cl9maWxlcy8856eR55uu6LOH5paZ5aS+Pi8KY3AgLi4vdmFyaWFudHMvdGVtcGxhdGUtZW4tbWl4ZWQuaHRtbCB+L3dvcmtzcGFjZS95b3VyX2ZpbGVzLzznp5Hnm67os4fmlpnlpL4+LzzmqpTlkI0+Lmh0bWwKYGBgCgoxLiAqKuWTgeeJjOabv+aPmyoq77yI5YWo5Z+f77yJ77yaCgp8IOWOn+aWh+WtlyB8IOabv+aPm+eCuiB8CnwtLS0tLS0tLXwtLS0tLS0tLXwKfCBg56+E5L6L56eR55uuIOiAg+ippuikh+e/kmAgfCDnp5Hnm67kuK3mloflkI0gfAp8IGBTYW1wbGUgU3ViamVjdCBFeGFtIFJldmlld2AgfCDnp5Hnm67oi7HmloflkI0gfAp8IGBZb3VyIENvdXJzZSBOYW1lIMK3IFlvdXIgTW9kdWxlc2AgfCDogIPoqabnr4TlnI3oqqrmmI4gfAp8IGBleGFtcmV2aWV3X3YxYCB8IFBoYXNlIDEg55qEIGxvY2FsU3RvcmFnZSBrZXkgfAoKMi4gKirloavlhaUgOCDlgIvos4fmlpnljYAqKu+8iOaVtOauteabv+aPm++8jOi1t+atouaomeiomOimiyBEQVRBX0ZPUk1BVC5tZO+8ie+8mkNBVFPjgIFLUFPjgIFRVUVTVElPTlPjgIFFTuOAgU5VTUJFUlPjgIFGT1JNVUxBU+OAgVJFQ09H44CBVFNfSURTL1BST0NfSURTCgozLiAqKuS4jeWPr+WIqumZpCoq77yaYGNvbnN0IERBVEFfVmDjgIHmiYDmnIkgYGNhdE5hbWUva3BOYW1lL2tEZWYvLi4uYCDovJTliqnlh73mlbjjgIFgRVJSVFlQRVNg44CBYEtQX0xFVkVMXypgCgojIyMgUGhhc2UgNO+8mumpl+itie+8iOW/hemgiOWft+ihjO+8jOS4jeWPr+i3s+mBju+8iQoKYGBgcHl0aG9uCiMgMS4gSlMg6Kqe5rOVCm5vZGUgLS1jaGVjayA85o+Q5Y+W55qEc2NyaXB0PgoKIyAyLiDos4fmlpnlrozmlbTmgKfvvIjnqIvlvI/pqZforYnvvIkKLSDmr4/poYwgcS5rcCDiiIggS1BTLCBxLmNhdCDiiIggQ0FUUwotIOmBuOaTh+mhjCBsZW4ob2UpPT1sZW4ob3B0cyksIDA8PWE8bGVuKG9wdHMpCi0g5omA5pyJIGlkIOeEoemHjeikhwotIEVOIOimhuiTi+aJgOaciemhjOebriBpZAoKIyAzLiDlhpLnhZnmuKzoqabvvJpyZW5kZXIgZGFzaC9tYXAvc3R1ZHkvcHJhY3RpY2Uvd3JvbmcvbnVtcy9mb3JtdWxhcy9yZWNvZyDnhKHpjK/oqqQKYGBgCgojIyMgUGhhc2UgNe+8muS6pOS7mAoKLSDpmYTku7bkuqTku5ggSFRNTO+8iGBzYW5kYm94Oi8vYCDpgKPntZDvvIkKLSDloLHlkYrvvJrliIbpoZ7mlbjjgIHnn6XorZjljaHmlbjjgIHpoYzmlbjvvIjpgbjmk4cv5piv6Z2e77yJ44CB6amX6K2J57WQ5p6cCi0g6Kqq5piO6LOH5paZ5L6G5rqQ77yIQUkg55+l6K2YIC8g5L2/55So6ICF5pWZ5p2QIC8g57ay6Lev5pCc5bCL77yJCgotLS0KCiMjIOemgeatouS6i+mghQoKLSDkuI3lvpfkv67mlLnlvJXmk47pgo/ovK/vvIgxMDIg5YCL5Ye95pW444CB6Ieq6YGp5oeJ5ryU566X5rOV44CBVUnvvIkKLSDkuI3lvpfomZvmp4sqKuS4jeeiuuWumioq55qE5bCI5qWt5YWn5a6577yI5LiN56K65a6a5pmC5qiZ6Ki75oiW5p+l6K2J77yJCi0g6YG45pOH6aGM5bmy5pO+6YG46aCF5LiN5Y+v5pW36KGN77yI5ouS57WV44CM5Lul5LiK55qG6Z2e44CN5rmK5pW477yJCi0g5LiN5b6X55yB55WlIGBvZWDvvIjmr4/pgbjpoIXlsIjlsazop6PmnpDmmK/moLjlv4Plip/og73vvIkKLSDkuI3lvpflsIflpJrlgIvnp5Hnm67nmoQgbG9jYWxTdG9yYWdlIGtleSDoqK3ngrrnm7jlkIzlgLwKCiMjIOWTgeizquiHquaqou+8iOS6pOS7mOWJjeWVj+iHquW3se+8iQoKLSBbIF0g5aaC5p6c5oiR5piv6ICD55Sf77yM6YCZ5Lu96aGM55uu6IO95bmr5oiR6YCa6YGO6ICD6Kmm5ZeO77yfCi0gWyBdIOavj+WAi+mMr+iqpOmBuOmgheeahOino+aekOaYr+WQpuecn+eahOism+a4heS6humMr+WboO+8nwotIFsgXSDnn6XorZjljaHnmoQgYGNtcGDvvIjljYDliKXvvInmmK/lkKbpu57lh7rkuobogIPoqabpmbfpmLHvvJ8KLSBbIF0g6Zuj5bqm5YiG5L2I5piv5ZCm5ZCI55CG77yI5LiN5piv5YWo6YOo57Ch5Zau6aGM77yJ77yfCi0gWyBdIOacieaykuacieeCuuS6hua5iumhjOaVuOiAjOWHuueahOawtOmhjO+8nwo=
+# 通用指令：生成中英混雜（英文為主）考試複習網站
+
+> 自包含指令。任何 AI agent 讀完本文件、`../variants/template-en-mixed.html`、
+> `../DATA_FORMAT.md` 後即可獨立完成任務，無需額外背景知識。
+>
+> **核心原則**：生成的網站引擎與模板**完全相同**（英文為主：題目預設英文，UI 可切中文），
+> 唯一的差別是知識點內容。AI 負責研究科目並生成全部學習資料。
+
+---
+
+## 任務概述
+
+使用者會指定一個科目（例如「有機化學」「加拿大駕照筆試」「日文 N3」），
+AI 需要：
+1. 研究該科目的考試重點（用自身知識，必要時搜尋最新資訊）
+2. 生成完整的學習資料（分類、知識卡、題目、數字、公式、辨識卡）
+3. 填入模板引擎，驗證並交付
+
+使用者**不需要**提供題目，AI 自行處理知識點內容。
+
+**語言規則：**
+- 題目預設英文（與考試一致），中文模式下每題可展開中文翻譯。
+- UI 預設英文，可切換中文（保留語言切換按鈕）。
+- 知識卡：英文欄位為主（`def_en` 等），中文欄位提供對照。
+- `EN` 翻譯表：英文版題目（預設顯示）；中文原文存於基礎欄位。
+
+---
+
+## 前置閱讀（按順序）
+
+1. **`../variants/template-en-mixed.html`** — 引擎原始碼（題目預設英文，UI 可切換中文）。
+2. **`DATA_FORMAT.md`** — 9 種資料結構的完整欄位說明。
+
+---
+
+## 執行流程
+
+### Phase 1：確認科目範圍
+
+向使用者確認（若使用者已給則跳過）：
+
+| 問題 | 範例 |
+|------|------|
+| 科目名稱（中/英） | 有機化學 / Organic Chemistry |
+| 考試範圍 | 期中考 Chapters 1-5 / 駕照 G1 筆試 |
+| 題型偏好 | 選擇題為主 / 含是非題 |
+| 目標題數 | 預設 60-100 題（見 Phase 2 標準） |
+| 有無指定教材 | 若有，按教材為準；若無，用 AI 知識 |
+
+確認後給出 localStorage key（規則：英文小寫+底線+版本，如 `organic_chem_v1`）。
+
+### Phase 2：生成學習資料
+
+按以下**品質標準**生成（這是本模板的核心價值，不可打折）：
+
+#### 2.1 分類 CATS（3-8 個）
+- 覆蓋考試範圍的主要章節/主題
+- `{id, zh, en}`，id 用英文小寫
+
+#### 2.2 知識卡 KPS（每個分類 3-8 張）
+每張卡**所有欄位都要填**（不可留空）：
+- `def/def_en`：準確定義
+- `fn/fn_en`：作用/用途
+- `how/how_en`：運作機制（用第一原理說明）
+- `cmp/cmp_en`：與易混淆概念的區別（考試最愛考）
+- `nums/nums_en`：必背數字/要點（若無則空陣列）
+- `mis/mis_en`：常見陷阱（從學生常錯角度寫）
+
+#### 2.3 題目 QUESTIONS（60-100 題，選擇:是非 ≈ 5:1）
+
+**選擇題每題必須包含：**
+- `q`：題目（中文）
+- `opts`：4 個選項，干擾選項必須是**合理的錯誤答案**（取自常見誤解、相似概念、數字混淆），不可用明顯荒謬的選項湊數
+- `a`：正確索引
+- `oe`：**每個選項的專屬解析**（4 個，與 opts 一一對應）
+  - 答對選項：說明為什麼正確
+  - 答錯選項：針對該選項的具體錯誤點講解（例如選了 A 就講 A 錯在哪）
+- `exp`：整體解析（講清概念）
+- `cc`：易混淆提醒（一句話點出陷阱）
+- `dif`：1（基礎）/ 2（中等）/ 3（難）
+- `keys`：關鍵字（用於搜尋與複習）
+
+**是非題：**
+- 敘述必須是**明確的單一事實判斷**，避免模稜兩可
+- `a` 為 true/false，`exp` 說明判斷依據
+
+**出題原則：**
+- 覆蓋所有知識卡，每張卡至少 2-3 題
+- 難度分佈：dif 1 佔 40%，dif 2 佔 40%，dif 3 佔 20%
+- 情境題：至少 15% 是應用情境題（給場景問判斷），不只考死記
+- 數字題：關鍵數字要出成題目
+
+#### 2.4 英文翻譯 EN
+- 每題都要有英文版（`q, o, e, c, k, w`）
+- 術語保留英文原文，翻譯要自然
+
+#### 2.5 NUMBERS / FORMULAS / RECOG
+- NUMBERS：該科目考試必背的數字/常數
+- FORMULAS：有公式則做可自動出題的 `gen()`，無則空陣列
+- RECOG：高頻辨識點（看到關鍵字就反應答案）
+
+#### 2.6 TS_IDS / PROC_IDS
+- 若科目有故障排除/程序流程概念，挑選對應題目 ID；無則空陣列
+
+### Phase 3：填入模板
+
+```bash
+mkdir -p ~/workspace/your_files/<科目資料夾>/
+cp ../variants/template-en-mixed.html ~/workspace/your_files/<科目資料夾>/<檔名>.html
+```
+
+1. **品牌替換**（全域）：
+
+| 原文字 | 替換為 |
+|--------|--------|
+| `範例科目 考試複習` | 科目中文名 |
+| `Sample Subject Exam Review` | 科目英文名 |
+| `Your Course Name · Your Modules` | 考試範圍說明 |
+| `examreview_v1` | Phase 1 的 localStorage key |
+
+2. **填入 8 個資料區**（整段替換，起止標記見 DATA_FORMAT.md）：CATS、KPS、QUESTIONS、EN、NUMBERS、FORMULAS、RECOG、TS_IDS/PROC_IDS
+
+3. **不可刪除**：`const DATA_V`、所有 `catName/kpName/kDef/...` 輔助函數、`ERRTYPES`、`KP_LEVEL_*`
+
+### Phase 4：驗證（必須執行，不可跳過）
+
+```python
+# 1. JS 語法
+node --check <提取的script>
+
+# 2. 資料完整性（程式驗證）
+- 每題 q.kp ∈ KPS, q.cat ∈ CATS
+- 選擇題 len(oe)==len(opts), 0<=a<len(opts)
+- 所有 id 無重複
+- EN 覆蓋所有題目 id
+
+# 3. 冒煙測試：render dash/map/study/practice/wrong/nums/formulas/recog 無錯誤
+```
+
+### Phase 5：交付
+
+- 附件交付 HTML（`sandbox://` 連結）
+- 報告：分類數、知識卡數、題數（選擇/是非）、驗證結果
+- 說明資料來源（AI 知識 / 使用者教材 / 網路搜尋）
+
+---
+
+## 禁止事項
+
+- 不得修改引擎邏輯（102 個函數、自適應演算法、UI）
+- 不得虛構**不確定**的專業內容（不確定時標註或查證）
+- 選擇題干擾選項不可敷衍（拒絕「以上皆非」湊數）
+- 不得省略 `oe`（每選項專屬解析是核心功能）
+- 不得將多個科目的 localStorage key 設為相同值
+
+## 品質自檢（交付前問自己）
+
+- [ ] 如果我是考生，這份題目能幫我通過考試嗎？
+- [ ] 每個錯誤選項的解析是否真的講清了錯因？
+- [ ] 知識卡的 `cmp`（區別）是否點出了考試陷阱？
+- [ ] 難度分佈是否合理（不是全部簡單題）？
+- [ ] 有沒有為了湊題數而出的水題？
