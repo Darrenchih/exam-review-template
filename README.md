@@ -1,1 +1,43 @@
-IyDogIPoqabopIfnv5LntrLnq5nmqKHmnb8KCuS7pSBIVkFDIDEyMyDopIfnv5LntrLnq5nnmoTlrozmlbTlvJXmk47ngrrln7rnpI7oo73miJDnmoTpgJrnlKjmqKHmnb/jgIIK55Sf5oiQ55qE57ay56uZ6IiH5Y6f57O757WxKirlip/og73lrozlhajnm7jlkIwqKu+8jOWPquW3ruefpeitmOm7nuWFp+WuueOAggoKIyMg5Zub5aWX6Kqe6KiA54mI5pysCgp8IOeJiOacrCB8IEhUTUwgfCDmj5DnpLroqZ4gfCDoqqrmmI4gfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS0tLXwtLS0tLS18Cnwg5YWo6Iux5paHIHwgYHZhcmlhbnRzL3RlbXBsYXRlLWVuLmh0bWxgIHwgYHByb21wdHMvUFJPTVBUX0VOLm1kYCB8IFVJK+mhjOebruWFqOiLseaWh++8jOeEoeWIh+aPmyB8Cnwg5YWo5Lit5paHIHwgYHZhcmlhbnRzL3RlbXBsYXRlLXpoLmh0bWxgIHwgYHByb21wdHMvUFJPTVBUX1pILm1kYCB8IFVJK+mhjOebruWFqOS4reaWh++8jOeEoeWIh+aPmyB8Cnwg5Lit6Iux5re36Zuc77yI5Lit5paH54K65Li777yJIHwgYHZhcmlhbnRzL3RlbXBsYXRlLXpoLW1peGVkLmh0bWxgIHwgYHByb21wdHMvUFJPTVBUX1pIX01JWEVELm1kYCB8IOS4reaWh+mgkOiore+8jOWPr+WIh+iLseaWhyB8Cnwg5Lit6Iux5re36Zuc77yI6Iux5paH54K65Li777yJIHwgYHZhcmlhbnRzL3RlbXBsYXRlLWVuLW1peGVkLmh0bWxgIHwgYHByb21wdHMvUFJPTVBUX0VOX01JWEVELm1kYCB8IOiLseaWh+mgkOiore+8jOWPr+WIh+S4reaWhyB8CgojIyDmlofku7YKCnwg5qqU5qGIIHwg6Kqq5piOIHwKfC0tLS0tLXwtLS0tLS18CnwgYFJFQURNRS5tZGAgfCDmnKzmlofku7YgfAp8IGBXT1JLRkxPVy5tZGAgfCAqKuWPr+ikh+ijvea1geeoiyoq77ya6YG46Kqe6KiA4oaS57Wm5oyH5Luk4oaS6amX6K2J4oaS5Lqk5LuY4oaS6L+t5LujIHwKfCBgREFUQV9GT1JNQVQubWRgIHwgOSDnqK7os4fmlpnntZDmp4vnmoTmrITkvY3oqqrmmI4gfAp8IGB0ZW1wbGF0ZS5odG1sYCB8IOWfuuekjuaooeadv++8iOiLseaWh+eCuuS4u+a3t+mbnO+8iSB8CnwgYHZhcmlhbnRzL2AgfCA0IOWllyBIVE1MIHwKfCBgcHJvbXB0cy9gIHwgNCDlpZcgQUkg5oyH5LukIHwKCiMjIOS9v+eUqOaWueW8jwoKIyMjIOS4i+asoeWPqumcgOimgeWFqeatpQoKMS4g55yLIGBXT1JLRkxPVy5tZGAg6YG45LiA5aWX6Kqe6KiACjIuIOaKiuWwjeaHiSBgcHJvbXB0cy9gIOeahOaPkOekuuipnuiyvOe1puS7u+S9lSBBSe+8jOWKoOS4gOWPpeOAjOenkeebruaYr+KXi+KXi+OAjQoKQUkg5pyD6Ieq5YuV56CU56m256eR55uu44CB55Sf5oiQ55+l6K2Y6bue44CB5aGr5YWl5qih5p2/44CB6amX6K2J44CB5Lqk5LuY44CCCgojIyDlvJXmk47lip/og73vvIg0IOWll+ebuOWQjO+8iQoKLSDwn5OWIOWtuOe/kuaooeW8j++8iOefpeitmOWNoe+8muWumue+qS/kvZznlKgv5qmf5Yi2L+WNgOWIpS/lv4Xog4wv6Zm36Zix77yJCi0g4pyP77iPIOe3tOe/kuaooeW8j++8iOiHqumBqeaHiemBuOmhjOOAgeavj+mBuOmgheWwiOWxrOino+aekO+8iQotIPCfk50g5qih5pOs6ICD5qih5byP77yI6KiI5pmC44CB57Wx5LiA5Lqk5Y2344CB6Y2155uk5b+r5o236Y2177yJCi0g8J+OryDlvLHpu57opIfnv5LvvIhzcGFjZWQgcmVwZXRpdGlvbu+8ie+9nOKdjCDpjK/poYzmnKzvvZzirZAg5pS26JePCi0g8J+UoiDpl5zpjbXmlbjlrZfvvZzwn5OQIOWFrOW8j+iok+e3tO+9nPCflI0g6ICD6Kmm6L6o6K2YCi0g8J+TiiDlrbjnv5LmqpTmoYjvvIjotqjli6LlnJbjgIHlvLflvLHpoIXjgIHogIPoqablgJLmlbjvvIkKLSDwn5K+IOacrOWcsOWEsuWtmCArIEpTT04g5Yyv5Ye6L+WMr+WFpe+9nPCflqjvuI8g5YiX5Y2w772c8J+MmSDkuInnqK7kuLvpoYwK
+# 考試複習網站模板
+
+以 HVAC 123 複習網站的完整引擎為基礎製成的通用模板。
+生成的網站與原系統**功能完全相同**，只差知識點內容。
+
+## 四套語言版本
+
+| 版本 | HTML | 提示詞 | 說明 |
+|------|------|--------|------|
+| 全英文 | `variants/template-en.html` | `prompts/PROMPT_EN.md` | UI+題目全英文，無切換 |
+| 全中文 | `variants/template-zh.html` | `prompts/PROMPT_ZH.md` | UI+題目全中文，無切換 |
+| 中英混雜（中文為主） | `variants/template-zh-mixed.html` | `prompts/PROMPT_ZH_MIXED.md` | 中文預設，可切英文 |
+| 中英混雜（英文為主） | `variants/template-en-mixed.html` | `prompts/PROMPT_EN_MIXED.md` | 英文預設，可切中文 |
+
+## 文件
+
+| 檔案 | 說明 |
+|------|------|
+| `README.md` | 本文件 |
+| `WORKFLOW.md` | **可複製流程**：選語言→給指令→驗證→交付→迭代 |
+| `DATA_FORMAT.md` | 9 種資料結構的欄位說明 |
+| `template.html` | 基礎模板（英文為主混雜） |
+| `variants/` | 4 套 HTML |
+| `prompts/` | 4 套 AI 指令 |
+
+## 使用方式
+
+### 下次只需要兩步
+
+1. 看 `WORKFLOW.md` 選一套語言
+2. 把對應 `prompts/` 的提示詞貼給任何 AI，加一句「科目是○○」
+
+AI 會自動研究科目、生成知識點、填入模板、驗證、交付。
+
+## 引擎功能（4 套相同）
+
+- 📖 學習模式（知識卡：定義/作用/機制/區別/必背/陷阱）
+- ✏️ 練習模式（自適應選題、每選項專屬解析）
+- 📝 模擬考模式（計時、統一交卷、鍵盤快捷鍵）
+- 🎯 弱點複習（spaced repetition）｜❌ 錯題本｜⭐ 收藏
+- 🔢 關鍵數字｜📐 公式訓練｜🔍 考試辨識
+- 📊 學習檔案（趨勢圖、強弱項、考試倒數）
+- 💾 本地儲存 + JSON 匯出/匯入｜🖨️ 列印｜🌙 三種主題
