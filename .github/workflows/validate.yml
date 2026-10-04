@@ -1,0 +1,146 @@
+name: Validate Templates
+
+on:
+  push:
+    paths:
+      - '**.html'
+  pull_request:
+    paths:
+      - '**.html'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate variants
+        run: |
+          python3 << 'PYEOF'
+          import re, sys
+
+          files = [
+              'template.html',
+              'variants/template-en.html',
+              'variants/template-zh.html',
+              'variants/template-zh-mixed.html',
+              'variants/template-en-mixed.html',
+          ]
+
+          errors = []
+
+          for f in files:
+              print(f"\n=== {f} ===")
+              try:
+                  html = open(f, encoding='utf-8').read()
+              except FileNotFoundError:
+                  errors.append(f"{f}: file not found")
+                  continue
+
+              # 1. HTML 必須以 </html> 結尾（無重複程式碼外洩）
+              if not html.rstrip().endswith('</html>'):
+                  errors.append(f"{f}: does not end with </html> (possible duplicate code leak)")
+
+              # 2. 提取最大 <script> 區塊做語法檢查
+              blocks = re.findall(r'<script>(.*?)</script>', html, re.S)
+              if not blocks:
+                  errors.append(f"{f}: no <script> block found")
+                  continue
+              js = max(blocks, key=len)
+              open('/tmp/check.js', 'w', encoding='utf-8').write(js)
+
+              # 3. 必要全域定義
+              for token in ['const T=', 'const STR_EN', 'let QUESTIONS=[', 'const KPS=[',
+                            'const NUMBERS=[', 'const FORMULAS=[', 'const RECOG=[']:
+                  if token not in js:
+                      errors.append(f"{f}: missing `{token}`")
+
+              # 4. FORMULAS 註解必須閉合（曾經造成原始碼外洩）
+              if '/* ====' in js:
+                  # 數註解開關是否平衡（簡易檢查）
+                  opens = js.count('/*')
+                  closes = js.count('*/')
+                  if opens != closes:
+                      errors.append(f"{f}: unbalanced /* */ comments ({opens} opens, {closes} closes)")
+
+              print(f"  script bytes: {len(js)}")
+
+          # 5. Node 語法檢查
+          import subprocess
+          for f in files:
+              html = open(f, encoding='utf-8').read()
+              blocks = re.findall(r'<script>(.*?)</script>', html, re.S)
+              js = max(blocks, key=len)
+              open('/tmp/check.js', 'w', encoding='utf-8').write(js)
+              r = subprocess.run(['node', '--check', '/tmp/check.js'],
+                                 capture_output=True, text=True)
+              if r.returncode != 0:
+                  errors.append(f"{f}: node --check failed\n{r.stderr[:500]}")
+              else:
+                  print(f"  {f}: syntax OK")
+
+          if errors:
+              print("\n❌ VALIDATION FAILED:")
+              for e in errors:
+                  print(f"  - {e}")
+              sys.exit(1)
+          print("\n✅ All validations passed")
+          PYEOF
+
+      - name: Validate demo data counts
+        run: |
+          python3 << 'PYEOF'
+          import re, sys
+
+          # Demo variants 應包含完整的太陽系範例資料
+          expected = {'questions': 12, 'kps': 5, 'numbers': 4, 'formulas': 1, 'recog': 4}
+          errors = []
+
+          for f in ['variants/template-en.html', 'variants/template-zh.html',
+                    'variants/template-zh-mixed.html', 'variants/template-en-mixed.html']:
+              html = open(f, encoding='utf-8').read()
+
+              # 題目數（頂層 {id:"dx"）
+              idx = html.find('let QUESTIONS=[')
+              end = html.find('\n];', idx)
+              q_block = html[idx:end] if idx != -1 and end != -1 else ''
+              nq = len(re.findall(r'\{id:"d\d+"', q_block))
+
+              # 知識卡
+              nk = html.count('{id:"eight_planets"') + html.count('{id:"terrestrial"')
+
+              # 關鍵數字（簡單計數）
+              m = re.search(r'const NUMBERS=\[(.*?)\];', html, re.S)
+              nn = m.group(1).count('{n:') if m else 0
+
+              # 公式
+              m = re.search(r'const FORMULAS=\[(.*?)\];', html, re.S)
+              nf = m.group(1).count('{id:') if m else 0
+
+              # 辨識
+              m = re.search(r'const RECOG=\[(.*?)\];', html, re.S)
+              nr = m.group(1).count('{cue:') if m else 0
+
+              print(f"{f}: Q={nq} K={nk} N={nn} F={nf} R={nr}")
+
+              if nq != expected['questions']:
+                  errors.append(f"{f}: expected {expected['questions']} questions, got {nq}")
+              if nn != expected['numbers']:
+                  errors.append(f"{f}: expected {expected['numbers']} numbers, got {nn}")
+              if nf != expected['formulas']:
+                  errors.append(f"{f}: expected {expected['formulas']} formulas, got {nf}")
+              if nr != expected['recog']:
+                  errors.append(f"{f}: expected {expected['recog']} recog items, got {nr}")
+
+          if errors:
+              print("\n❌ DATA VALIDATION FAILED:")
+              for e in errors:
+                  print(f"  - {e}")
+              sys.exit(1)
+          print("\n✅ Demo data counts OK")
+          PYEOF
