@@ -24,9 +24,35 @@
 - 只想練英文 → 全英文
 - 只想看中文 → 全中文
 
-### Step 2：給 AI 指令
+### Step 2：給 AI 一段話（推薦）
 
-把對應 `prompts/` 下的提示詞全文貼給任何 AI agent，
+複製下面這段話，換上你要的語言版本，貼給任何 AI。AI 會自己去倉庫讀提示詞、模板和欄位說明，你不需要下載任何檔案：
+
+```
+我想用這個模板為我的考試科目生成一個複習網站。
+
+倉庫：https://github.com/Darrenchih/exam-review-template
+我要的語言版本：全中文（四選一：全中文／全英文／中文為主／英文為主）
+
+請你：
+1. 從倉庫讀取對應的提示詞（prompts/）、HTML 模板（variants/）和 DATA_FORMAT.md：
+   - 全中文 → prompts/PROMPT_ZH.md ＋ variants/template-zh.html
+   - 全英文 → prompts/PROMPT_EN.md ＋ variants/template-en.html
+   - 中文為主 → prompts/PROMPT_ZH_MIXED.md ＋ variants/template-zh-mixed.html
+   - 英文為主 → prompts/PROMPT_EN_MIXED.md ＋ variants/template-en-mixed.html
+2. 按照提示詞的 Phase 1 先跟我確認科目名稱和考試範圍，再繼續後面步驟。
+```
+
+### Step 2（替代）：手動給三個檔案
+
+如果你的 AI 不能讀網頁，改為手動附加以下三個檔案（只貼提示詞是不夠的）：
+
+| 檔案 | 作用 |
+|------|------|
+| `prompts/` 下對應的提示詞 | 指令（Phase 1–5） |
+| `variants/` 下對應的 HTML | 要填入的模板 |
+| `DATA_FORMAT.md` | 資料欄位說明 |
+
 再加一句：
 
 > 「科目是 [科目名稱]，範圍是 [考試範圍]」
