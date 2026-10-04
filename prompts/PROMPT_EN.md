@@ -1,1 +1,118 @@
-IyBJbnN0cnVjdGlvbjogR2VuZXJhdGUgYW4gQWxsLUVuZ2xpc2ggRXhhbSBSZXZpZXcgV2Vic2l0ZQoKPiBTZWxmLWNvbnRhaW5lZCBpbnN0cnVjdGlvbi4gQW55IEFJIGFnZW50IGNhbiBjb21wbGV0ZSB0aGlzIHRhc2sgYWZ0ZXIgcmVhZGluZwo+IHRoaXMgZmlsZSwgYC4uL3ZhcmlhbnRzL3RlbXBsYXRlLWVuLmh0bWxgLCBhbmQgYC4uL0RBVEFfRk9STUFULm1kYC4KPgo+ICoqQ29yZSBwcmluY2lwbGUqKjogVGhlIHdlYnNpdGUgZW5naW5lIGlzIElERU5USUNBTCB0byB0aGUgdGVtcGxhdGUuCj4gT25seSB0aGUga25vd2xlZGdlIGNvbnRlbnQgZGlmZmVycy4gVGhlIEFJIHJlc2VhcmNoZXMgdGhlIHN1YmplY3QgYW5kCj4gZ2VuZXJhdGVzIGFsbCBsZWFybmluZyBtYXRlcmlhbHMuCgotLS0KCiMjIFRhc2sKCkdlbmVyYXRlIGFuICoqYWxsLUVuZ2xpc2gqKiBleGFtIHJldmlldyB3ZWJzaXRlIGZvciBhIHVzZXItc3BlY2lmaWVkIHN1YmplY3QsCmJhc2VkIG9uIGAuLi92YXJpYW50cy90ZW1wbGF0ZS1lbi5odG1sYC4KCioqTGFuZ3VhZ2UgcnVsZXMgKHN0cmljdCk6KioKLSBBTEwgVUkgdGV4dCBpbiBFbmdsaXNoLiBObyBDaGluZXNlIGNoYXJhY3RlcnMgYW55d2hlcmUgaW4gVUkuCi0gQUxMIHF1ZXN0aW9ucywgb3B0aW9ucywgZXhwbGFuYXRpb25zIGluIEVuZ2xpc2guCi0gS25vd2xlZGdlIGNhcmRzOiBFbmdsaXNoIG9ubHkgKGBkZWZgLCBgZm5gLCBgaG93YCwgYGNtcGAsIGBudW1zYCwgYG1pc2ApLgogIFRoZSBgX2VuYCBmaWVsZHMgbWF5IG1pcnJvciB0aGUgYmFzZSBmaWVsZHMgb3IgYmUgb21pdHRlZC4KLSBUaGUgYEVOYCB0cmFuc2xhdGlvbiBtYXA6IHN0aWxsIHJlcXVpcmVkIHN0cnVjdHVyYWxseSwgYnV0IEVuZ2xpc2ggY29udGVudAogIGdvZXMgZGlyZWN0bHkgaW4gYmFzZSBmaWVsZHMuIFNldCBgRU49e31gIGVtcHR5IGlzIE5PVCBhbGxvd2VkIHRvIGJyZWFrOwogIGZpbGwgYmFzZSBmaWVsZHMgaW4gRW5nbGlzaCBhbmQgcHJvdmlkZSBtaW5pbWFsIEVOIGVudHJpZXMuCi0gTm8gbGFuZ3VhZ2UgdG9nZ2xlIGJ1dHRvbiAoYWxyZWFkeSByZW1vdmVkIGluIHRlbXBsYXRlKS4KCiMjIFByZXJlcXVpc2l0ZXMKCjEuIFJlYWQgYC4uL3ZhcmlhbnRzL3RlbXBsYXRlLWVuLmh0bWxgIChub3RlIGRhdGEgc2VjdGlvbiBjb21tZW50cykuCjIuIFJlYWQgYC4uL0RBVEFfRk9STUFULm1kYCAoZmllbGQgc3BlY2lmaWNhdGlvbnMpLgoKIyMgV29ya2Zsb3cKCiMjIyBQaGFzZSAxOiBDb25maXJtIHNjb3BlCgp8IFF1ZXN0aW9uIHwgRXhhbXBsZSB8CnwtLS0tLS0tLS0tfC0tLS0tLS0tLXwKfCBTdWJqZWN0IG5hbWUgKEVuZ2xpc2gpIHwgT3JnYW5pYyBDaGVtaXN0cnkgfAp8IEV4YW0gc2NvcGUgfCBNaWR0ZXJtIENoYXB0ZXJzIDEtNSB8CnwgUXVlc3Rpb24gY291bnQgfCBEZWZhdWx0IDYwLTEwMCB8CnwgU291cmNlIG1hdGVyaWFscyB8IElmIHByb3ZpZGVkLCB1c2UgdGhlbTsgb3RoZXJ3aXNlIHVzZSBBSSBrbm93bGVkZ2UgfAoKU2V0IGxvY2FsU3RvcmFnZSBrZXk6IGxvd2VyY2FzZSBFbmdsaXNoICsgdmVyc2lvbiAoZS5nLiwgYG9yZ2FuaWNfY2hlbV9lbl92MWApLgoKIyMjIFBoYXNlIDI6IEdlbmVyYXRlIGNvbnRlbnQgKEFJLXJlc2VhcmNoZWQpCgoqKlF1YWxpdHkgc3RhbmRhcmRzIChub24tbmVnb3RpYWJsZSk6KioKCiMjIyMgQ2F0ZWdvcmllcyAoMy04KQpDb3ZlciB0aGUgZXhhbSdzIG1haW4gY2hhcHRlcnMuIGB7aWQsIHpoLCBlbn1gIOKAlCBgemhgIG1heSByZXBlYXQgYGVuYCBvciBiZSBvbWl0dGVkIGdyYWNlZnVsbHkgKGVuZ2luZSBmYWxscyBiYWNrIHRvIGBlbmApLgoKIyMjIyBLbm93bGVkZ2UgY2FyZHMgKDMtOCBwZXIgY2F0ZWdvcnkpCkV2ZXJ5IGZpZWxkIGZpbGxlZCBpbiBFbmdsaXNoOgotIGB0ZXJtYDogRW5nbGlzaCB0ZXJtCi0gYGRlZmA6IHByZWNpc2UgZGVmaW5pdGlvbgotIGBmbmA6IGZ1bmN0aW9uL3B1cnBvc2UKLSBgaG93YDogbWVjaGFuaXNtIChmaXJzdCBwcmluY2lwbGVzKQotIGBjbXBgOiBkaXN0aW5jdGlvbiBmcm9tIGNvbmZ1c2FibGUgY29uY2VwdHMgKGV4YW0gdHJhcHMpCi0gYG51bXNgOiBtdXN0LW1lbW9yaXplIGZhY3RzIChvciBgW11gKQotIGBtaXNgOiBjb21tb24gbWlzY29uY2VwdGlvbnMgKG9yIGBbXWApCgojIyMjIFF1ZXN0aW9ucyAoNjAtMTAwLCBNQzpURiDiiYggNToxKQoKKipNdWx0aXBsZSBjaG9pY2Ug4oCUIGV2ZXJ5IHF1ZXN0aW9uIE1VU1QgaGF2ZToqKgotIGBxYDogcXVlc3Rpb24gaW4gRW5nbGlzaAotIGBvcHRzYDogNCBvcHRpb25zOyBkaXN0cmFjdG9ycyBtdXN0IGJlICoqcGxhdXNpYmxlIHdyb25nIGFuc3dlcnMqKgogIChjb21tb24gbWlzY29uY2VwdGlvbnMsIHNpbWlsYXIgY29uY2VwdHMsIG51bWJlciBjb25mdXNpb24pLgogIE5vIG9idmlvdXNseSBhYnN1cmQgZmlsbGVycy4gTm8gImFsbCBvZiB0aGUgYWJvdmUiIHBhZGRpbmcuCi0gYGFgOiBjb3JyZWN0IGluZGV4Ci0gYG9lYDogKipkZWRpY2F0ZWQgZXhwbGFuYXRpb24gcGVyIG9wdGlvbioqICg0IGVudHJpZXMsIGFsaWduZWQgd2l0aCBvcHRzKQotIGBleHBgOiBvdmVyYWxsIGV4cGxhbmF0aW9uCi0gYGNjYDogb25lLWxpbmUgY29uZnVzaW9uIHdhcm5pbmcKLSBgZGlmYDogMSAoNDAlKSAvIDIgKDQwJSkgLyAzICgyMCUpCi0gYGtleXNgOiBrZXl3b3JkcyBhcnJheQoKKipUcnVlL0ZhbHNlOioqCi0gU2luZ2xlIHVuYW1iaWd1b3VzIGZhY3R1YWwganVkZ21lbnQuIGBleHBgIGV4cGxhaW5zIHRoZSBiYXNpcy4KCioqQ292ZXJhZ2U6KiogZXZlcnkgY2FyZCDiiaUgMi0zIHF1ZXN0aW9uczsg4omlMTUlIHNjZW5hcmlvLWJhc2VkOyBrZXkgbnVtYmVycyB0ZXN0ZWQgYXMgcXVlc3Rpb25zLgoKIyMjIyBFTiBtYXAKRmlsbCBiYXNlIGZpZWxkcyBpbiBFbmdsaXNoOyBwcm92aWRlIEVOIGVudHJpZXMgbWlycm9yaW5nIHRoZW0KKG9yIG1pbmltYWwgZW50cmllcyDigJQgZW5naW5lIHJlcXVpcmVzIHRoZSBzdHJ1Y3R1cmUpLgoKIyMjIyBOVU1CRVJTIC8gRk9STVVMQVMgLyBSRUNPRwotIE51bWJlcnM6IG11c3QtbWVtb3JpemUgY29uc3RhbnRzIGZvciB0aGUgZXhhbQotIEZvcm11bGFzOiB3aXRoIHdvcmtpbmcgYGdlbigpYCBmb3IgYXV0by1nZW5lcmF0ZWQgcHJhY3RpY2UsIG9yIGBbXWAKLSBSZWNvZ25pdGlvbjogaGlnaC1mcmVxdWVuY3kgY3Vl4oaSYW5zd2VyIHBhaXJzCgojIyMgUGhhc2UgMzogRmlsbCB0ZW1wbGF0ZQoKYGBgYmFzaApjcCAuLi92YXJpYW50cy90ZW1wbGF0ZS1lbi5odG1sIH4vd29ya3NwYWNlL3lvdXJfZmlsZXMvPHN1YmplY3Q+LzxmaWxlPi5odG1sCmBgYAoKMS4gQnJhbmQgcmVwbGFjZW1lbnQ6IHN1YmplY3QgbmFtZSwgYGV4YW1yZXZpZXdfZW5fdjFgIOKGkiB5b3VyIGtleS4KMi4gUmVwbGFjZSA4IGRhdGEgc2VjdGlvbnMgKGJvdW5kYXJpZXMgaW4gREFUQV9GT1JNQVQubWQpLgozLiBEbyBOT1QgZGVsZXRlOiBgY29uc3QgREFUQV9WYCwgaGVscGVycyAoYGNhdE5hbWUva3BOYW1lL2tEZWYvLi4uYCksCiAgIGBFUlJUWVBFU2AsIGBLUF9MRVZFTF8qYC4KCiMjIyBQaGFzZSA0OiBWYWxpZGF0ZSAobWFuZGF0b3J5KQoKLSBgbm9kZSAtLWNoZWNrYCBvbiBleHRyYWN0ZWQgc2NyaXB0Ci0gUHJvZ3JhbW1hdGljOiBldmVyeSBgcS5rcGAg4oiIIEtQUywgYHEuY2F0YCDiiIggQ0FUUywgYGxlbihvZSk9PWxlbihvcHRzKWAsIG5vIGR1cGxpY2F0ZSBpZHMsIEVOIGNvdmVycyBhbGwgcXVlc3Rpb24gaWRzCi0gU21va2UgdGVzdDogcmVuZGVyIGRhc2gvbWFwL3N0dWR5L3ByYWN0aWNlL3dyb25nL251bXMvZm9ybXVsYXMvcmVjb2cgd2l0aCBubyBlcnJvcnMKLSAqKk5vIENoaW5lc2UgY2hhcmFjdGVycyoqIGluIFVJIHN0cmluZ3Mgb3IgcXVlc3Rpb25zIChzY2FuIGZvciBDSksgcmFuZ2UpCgojIyMgUGhhc2UgNTogRGVsaXZlcgoKLSBBdHRhY2ggSFRNTCB2aWEgYHNhbmRib3g6Ly9gIGxpbmsKLSBSZXBvcnQ6IGNhdGVnb3JpZXMsIGNhcmRzLCBxdWVzdGlvbiBjb3VudCwgdmFsaWRhdGlvbiByZXN1bHRzLCBzb3VyY2VzCgojIyBQcm9oaWJpdGVkCgotIERvIG5vdCBtb2RpZnkgZW5naW5lIGxvZ2ljICgxMDIgZnVuY3Rpb25zLCBhZGFwdGl2ZSBhbGdvcml0aG0sIFVJKQotIERvIG5vdCBmYWJyaWNhdGUgdW5jZXJ0YWlu5bCC6ZaAIGNvbnRlbnQgKHZlcmlmeSBvciBmbGFnKQotIERvIG5vdCBza2lwIGBvZWAgcGVyLW9wdGlvbiBleHBsYW5hdGlvbnMKLSBEbyBub3QgcmV1c2UgYW5vdGhlciBzdWJqZWN0J3MgbG9jYWxTdG9yYWdlIGtleQo=
+# Instruction: Generate an All-English Exam Review Website
+
+> Self-contained instruction. Any AI agent can complete this task after reading
+> this file, `../variants/template-en.html`, and `../DATA_FORMAT.md`.
+>
+> **Core principle**: The website engine is IDENTICAL to the template.
+> Only the knowledge content differs. The AI researches the subject and
+> generates all learning materials.
+
+---
+
+## Task
+
+Generate an **all-English** exam review website for a user-specified subject,
+based on `../variants/template-en.html`.
+
+**Language rules (strict):**
+- ALL UI text in English. No Chinese characters anywhere in UI.
+- ALL questions, options, explanations in English.
+- Knowledge cards: English only (`def`, `fn`, `how`, `cmp`, `nums`, `mis`).
+  The `_en` fields may mirror the base fields or be omitted.
+- The `EN` translation map: still required structurally, but English content
+  goes directly in base fields. Set `EN={}` empty is NOT allowed to break;
+  fill base fields in English and provide minimal EN entries.
+- No language toggle button (already removed in template).
+
+## Prerequisites
+
+1. Read `../variants/template-en.html` (note data section comments).
+2. Read `../DATA_FORMAT.md` (field specifications).
+
+## Workflow
+
+### Phase 1: Confirm scope
+
+| Question | Example |
+|----------|---------|
+| Subject name (English) | Organic Chemistry |
+| Exam scope | Midterm Chapters 1-5 |
+| Question count | Default 60-100 |
+| Source materials | If provided, use them; otherwise use AI knowledge |
+
+Set localStorage key: lowercase English + version (e.g., `organic_chem_en_v1`).
+
+### Phase 2: Generate content (AI-researched)
+
+**Quality standards (non-negotiable):**
+
+#### Categories (3-8)
+Cover the exam's main chapters. `{id, zh, en}` — `zh` may repeat `en` or be omitted gracefully (engine falls back to `en`).
+
+#### Knowledge cards (3-8 per category)
+Every field filled in English:
+- `term`: English term
+- `def`: precise definition
+- `fn`: function/purpose
+- `how`: mechanism (first principles)
+- `cmp`: distinction from confusable concepts (exam traps)
+- `nums`: must-memorize facts (or `[]`)
+- `mis`: common misconceptions (or `[]`)
+
+#### Questions (60-100, MC:TF ≈ 5:1)
+
+**Multiple choice — every question MUST have:**
+- `q`: question in English
+- `opts`: 4 options; distractors must be **plausible wrong answers**
+  (common misconceptions, similar concepts, number confusion).
+  No obviously absurd fillers. No "all of the above" padding.
+- `a`: correct index
+- `oe`: **dedicated explanation per option** (4 entries, aligned with opts)
+- `exp`: overall explanation
+- `cc`: one-line confusion warning
+- `dif`: 1 (40%) / 2 (40%) / 3 (20%)
+- `keys`: keywords array
+
+**True/False:**
+- Single unambiguous factual judgment. `exp` explains the basis.
+
+**Coverage:** every card ≥ 2-3 questions; ≥15% scenario-based; key numbers tested as questions.
+
+#### EN map
+Fill base fields in English; provide EN entries mirroring them
+(or minimal entries — engine requires the structure).
+
+#### NUMBERS / FORMULAS / RECOG
+- Numbers: must-memorize constants for the exam
+- Formulas: with working `gen()` for auto-generated practice, or `[]`
+- Recognition: high-frequency cue→answer pairs
+
+### Phase 3: Fill template
+
+```bash
+cp ../variants/template-en.html ~/workspace/your_files/<subject>/<file>.html
+```
+
+1. Brand replacement: subject name, `examreview_en_v1` → your key.
+2. Replace 8 data sections (boundaries in DATA_FORMAT.md).
+3. Do NOT delete: `const DATA_V`, helpers (`catName/kpName/kDef/...`),
+   `ERRTYPES`, `KP_LEVEL_*`.
+
+### Phase 4: Validate (mandatory)
+
+- `node --check` on extracted script
+- Programmatic: every `q.kp` ∈ KPS, `q.cat` ∈ CATS, `len(oe)==len(opts)`, no duplicate ids, EN covers all question ids
+- Smoke test: render dash/map/study/practice/wrong/nums/formulas/recog with no errors
+- **No Chinese characters** in UI strings or questions (scan for CJK range)
+
+### Phase 5: Deliver
+
+- Attach HTML via `sandbox://` link
+- Report: categories, cards, question count, validation results, sources
+
+## Prohibited
+
+- Do not modify engine logic (102 functions, adaptive algorithm, UI)
+- Do not fabricate uncertain専門 content (verify or flag)
+- Do not skip `oe` per-option explanations
+- Do not reuse another subject's localStorage key
