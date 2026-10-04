@@ -27,10 +27,23 @@ only the knowledge content differs.
 | `README.md` | Chinese version |
 | `WORKFLOW.md` | **Replicable workflow**: pick language → give instruction → verify → deliver → iterate |
 | `DATA_FORMAT.md` | Field specifications for all 9 data structures |
+| `CONTRIBUTING.md` | Contribution guide (bilingual) |
+| `KNOWN_ISSUES.md` | Known issues tracker |
+| `CHANGELOG.md` | Version history |
 | `template.html` | Base template (English-primary mixed) |
 | `variants/` | 4 HTML variants |
 | `prompts/` | 4 AI instructions |
 | `LICENSE` | MIT License — everyone is free to copy, modify, and distribute |
+
+## Screenshots
+
+| All English | All Chinese |
+|-------------|-------------|
+| ![English Dashboard](screenshots/en-dashboard.png) | ![Chinese Dashboard](screenshots/zh-dashboard.png) |
+
+| Mixed (Chinese primary) | Mixed (English primary) |
+|-------------------------|-------------------------|
+| ![Chinese-primary Dashboard](screenshots/zh-mixed-dashboard.png) | ![English-primary Dashboard](screenshots/en-mixed-dashboard.png) |
 
 ## Usage
 
