@@ -1,5 +1,19 @@
 # 更新紀錄 / Changelog
 
+## [1.2.0] - 2026-10-04
+
+### 新增
+- CI 自動驗證（`.github/workflows/validate.yml`）：push 時檢查 5 個 HTML 的
+  JS 語法、`T()`/`STR_EN` 存在性、`</html>` 結尾、demo 資料計數
+- `CONTRIBUTING.md` 貢獻指南（中英雙語）
+- `KNOWN_ISSUES.md` 已知問題追蹤
+
+### 修復
+- 練習模式 `WCTX.mode` 未設定導致答案按鈕無反應
+- 「清除全部進度」按鈕轉義錯誤
+- 模擬考 `renderEQ` 硬編碼中文，補 `STR_EN`（交卷、題號導覽）
+- 英文版 HVAC123 殘留字串
+
 ## [1.1.0] - 2026-10-04
 
 ### 新增
