@@ -4,8 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 🌐 **Live demo**: Enable GitHub Pages (Settings → Pages → Deploy from branch → `main` → `/ (root)`)
-> Demo URL: `https://Darrenchih.github.io/exam-review-template/`
+> 🌐 **Live demo**: https://darrenchih.github.io/exam-review-template/
 
 A generic template based on the complete engine of the HVAC 123 review website.
 Websites generated from it are **functionally identical** to the original —
