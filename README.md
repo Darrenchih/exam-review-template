@@ -1,5 +1,7 @@
 # 考試複習網站模板
 
+[English version](README_EN.md)
+
 以 HVAC 123 複習網站的完整引擎為基礎製成的通用模板。
 生成的網站與原系統**功能完全相同**，只差知識點內容。
 
@@ -22,6 +24,7 @@
 | `template.html` | 基礎模板（英文為主混雜） |
 | `variants/` | 4 套 HTML |
 | `prompts/` | 4 套 AI 指令 |
+| `LICENSE` | MIT 授權 — 每個人都可自由複製、使用、修改、分享 |
 
 ## 使用方式
 
