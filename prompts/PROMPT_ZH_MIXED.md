@@ -1,1 +1,82 @@
-IyDpgJrnlKjmjIfku6TvvJrnlJ/miJDkuK3oi7Hmt7fpm5zvvIjkuK3mlofngrrkuLvvvInogIPoqabopIfnv5LntrLnq5kKCj4g6Ieq5YyF5ZCr5oyH5Luk44CC5Lu75L2VIEFJIGFnZW50IOiugOWujOacrOaWh+S7tuOAgWAuLi92YXJpYW50cy90ZW1wbGF0ZS16aC1taXhlZC5odG1sYOOAgQo+IGAuLi9EQVRBX0ZPUk1BVC5tZGAg5b6M5Y2z5Y+v542o56uL5a6M5oiQ5Lu75YuZ44CCCj4KPiAqKuaguOW/g+WOn+WJhyoq77ya57ay56uZ5byV5pOO6IiH5qih5p2/5a6M5YWo55u45ZCM77yM5ZSv5LiA55qE5beu5Yil5piv55+l6K2Y6bue5YWn5a6544CCCj4gQUkg6LKg6LKs56CU56m256eR55uu5Lim55Sf5oiQ5YWo6YOo5a2457+S6LOH5paZ44CCCgotLS0KCiMjIOS7u+WLmQoK54K65L2/55So6ICF5oyH5a6a55qE56eR55uu55Sf5oiQKirkuK3mlofngrrkuLvjgIHkuK3oi7Hmt7fpm5wqKueahOiAg+ippuikh+e/kue2suerme+8jArln7rmlrwgYC4uL3ZhcmlhbnRzL3RlbXBsYXRlLXpoLW1peGVkLmh0bWxg44CCCgoqKuiqnuiogOimj+WJh++8mioqCi0gVUkg6aCQ6Kit5Lit5paH77yM5Y+v5YiH5o+b6Iux5paH77yI5L+d55WZ6Kqe6KiA5YiH5o+b5oyJ6YiV77yJ44CCCi0g6aGM55uu5Lul5Lit5paH54K65Li777yM5bCI5pyJ5ZCN6Kme5L+d55WZ6Iux5paH5Y6f5paH5ous6Ki777yI5aaC44CM6JK455m85Zmo77yIRXZhcG9yYXRvcu+8ieOAje+8ieOAggotIOefpeitmOWNoe+8muS4reaWh+ashOS9jeeCuuS4u++8jGBfZW5gIOashOS9jeaPkOS+m+iLseaWh+WwjeeFp++8iOeUqOaWvOiLseaWh+aooeW8j++8ieOAggotIGBFTmAg57+76K2v6KGo77ya5o+Q5L6b6Iux5paH54mI6aGM55uu77yI5L6b5YiH5o+b6Iux5paH5pmC5L2/55So77yJ44CCCi0g6KGT6Kqe6aaW5qyh5Ye654++5pmC5Lit6Iux5Lim6Zmz77yM5LmL5b6M5Y+v55So5Lit5paH57Ch56ix44CCCgojIyDliY3nva7plrHoroAKCjEuIGAuLi92YXJpYW50cy90ZW1wbGF0ZS16aC1taXhlZC5odG1sYAoyLiBgLi4vREFUQV9GT1JNQVQubWRgCgojIyDln7fooYzmtYHnqIsKCiMjIyBQaGFzZSAx77ya56K66KqN56+E5ZyNCgrnp5Hnm67lkI3nqLHvvIjkuK0v6Iux77yJ44CB6ICD6Kmm56+E5ZyN44CB55uu5qiZ6aGM5pW477yI6aCQ6KitIDYwLTEwMO+8ieOAgeaMh+WumuaVmeadkOOAggpsb2NhbFN0b3JhZ2Uga2V577ya5aaCIGBzdWJqZWN0X3pobV92MWDjgIIKCiMjIyBQaGFzZSAy77ya55Sf5oiQ5a2457+S6LOH5paZCgoqKuWTgeizquaomea6lu+8iOS4jeWPr+aJk+aKmO+8ie+8mioqCgojIyMjIOWIhumhniBDQVRT77yIMy04IOWAi++8iQpge2lkLCB6aCwgZW59YCDkuK3oi7HlsI3nhafjgIIKCiMjIyMg55+l6K2Y5Y2hIEtQU++8iOavj+WIhumhniAzLTgg5by177yJCuS4reiLsembmeiqnuashOS9jemDveimgeWhq++8mgotIOS4reaWh++8mmBkZWYsIGZuLCBob3csIGNtcCwgbnVtcywgbWlzYAotIOiLseaWh++8mmBkZWZfZW4sIGZuX2VuLCBob3dfZW4sIGNtcF9lbiwgbnVtc19lbiwgbWlzX2VuYAotIGB0ZXJtYO+8iOiLseaWh+ihk+iqnu+8iSsgYHpoYO+8iOS4reaWh+WQje+8iQoKIyMjIyDpoYznm64gUVVFU1RJT05T77yINjAtMTAwIOmhjO+8jOmBuOaThzrmmK/pnZ4g4omIIDU6Me+8iQotIGBxYO+8muS4reaWh+mhjOebru+8jOihk+iqnuS4reiLseS4pumZswotIGBvcHRzYO+8mjQg5YCL6YG46aCF77yI5Lit5paH54K65Li777yM6KGT6Kqe5L+d55WZ6Iux5paH77yJCi0gYG9lYO+8muavj+mBuOmgheWwiOWxrOS4reaWh+ino+aekAotIGBleHBgL2BjY2DvvJrkuK3mlofop6PmnpDoiIfpmbfpmLHmj5DphpIKLSBgZGlmYO+8mjHvvIg0MCXvvIkvMu+8iDQwJe+8iS8z77yIMjAl77yJCi0g5q+P5by15Y2hIOKJpTItMyDpoYzvvIziiaUxNSUg5oOF5aKD6aGMCgojIyMjIEVOIOe/u+itr+ihqArmr4/poYzmj5DkvpvlrozmlbToi7HmlofniYjvvIhgcSwgbywgZSwgYywgaywgd2DvvInvvIzoi7HmlofmqKHlvI/mmYLkvb/nlKjjgIIKCiMjIyMg5YW25LuWCk5VTUJFUlPvvIjkuK3oi7HmhI/nvqnvvInjgIFGT1JNVUxBU+OAgVJFQ09H77yI5Lit6Iux77yJ44CBVFNfSURTL1BST0NfSURT77yI5Y+v56m677yJ44CCCgojIyMgUGhhc2UgM++8muWhq+WFpeaooeadvwoKYGBgYmFzaApjcCAuLi92YXJpYW50cy90ZW1wbGF0ZS16aC1taXhlZC5odG1sIH4vd29ya3NwYWNlL3lvdXJfZmlsZXMvPOenkeebrj4vPOaqlOWQjT4uaHRtbApgYGAKCuWTgeeJjOabv+aPmyArIDgg5YCL6LOH5paZ5Y2A5pu/5o+b44CC5LiN5Y+v5Yiq6Zmk6YCa55So5bi45pW444CCCgojIyMgUGhhc2UgNO+8mumpl+itiQoKLSBgbm9kZSAtLWNoZWNrYOOAgeizh+aWmeWujOaVtOaAp+eoi+W8j+mpl+itieOAgTgg6aCB5YaS54WZ5ris6KmmCi0g5Lit6Iux5paH5qih5byP5ZCE5riy5p+T5LiA5qyh77yM56K66KqN54Sh57y657+76K2v5bCO6Ie055qE56m655m9CgojIyMgUGhhc2UgNe+8muS6pOS7mAoKYHNhbmRib3g6Ly9gIOmZhOS7tiArIOWgseWRiu+8iOmhjOaVuOOAgempl+itiee1kOaenOOAgeizh+aWmeS+hua6kO+8ieOAggoKIyMg56aB5q2i5LqL6aCFCgotIOS4jeW+l+S/ruaUueW8leaTjumCj+i8r++9nOS4jeiZm+ani+S4jeeiuuWumuWFp+Wuue+9nGBvZWAg5LiN5Y+v55yB55WlCi0gbG9jYWxTdG9yYWdlIGtleSDkuI3lj6/ph43opIfvvZzlubLmk77pgbjpoIXkuI3lj6/mlbfooY0K
+# 通用指令：生成中英混雜（中文為主）考試複習網站
+
+> 自包含指令。任何 AI agent 讀完本文件、`../variants/template-zh-mixed.html`、
+> `../DATA_FORMAT.md` 後即可獨立完成任務。
+>
+> **核心原則**：網站引擎與模板完全相同，唯一的差別是知識點內容。
+> AI 負責研究科目並生成全部學習資料。
+
+---
+
+## 任務
+
+為使用者指定的科目生成**中文為主、中英混雜**的考試複習網站，
+基於 `../variants/template-zh-mixed.html`。
+
+**語言規則：**
+- UI 預設中文，可切換英文（保留語言切換按鈕）。
+- 題目以中文為主，專有名詞保留英文原文括註（如「蒸發器（Evaporator）」）。
+- 知識卡：中文欄位為主，`_en` 欄位提供英文對照（用於英文模式）。
+- `EN` 翻譯表：提供英文版題目（供切換英文時使用）。
+- 術語首次出現時中英並陳，之後可用中文簡稱。
+
+## 前置閱讀
+
+1. `../variants/template-zh-mixed.html`
+2. `../DATA_FORMAT.md`
+
+## 執行流程
+
+### Phase 1：確認範圍
+
+科目名稱（中/英）、考試範圍、目標題數（預設 60-100）、指定教材。
+localStorage key：如 `subject_zhm_v1`。
+
+### Phase 2：生成學習資料
+
+**品質標準（不可打折）：**
+
+#### 分類 CATS（3-8 個）
+`{id, zh, en}` 中英對照。
+
+#### 知識卡 KPS（每分類 3-8 張）
+中英雙語欄位都要填：
+- 中文：`def, fn, how, cmp, nums, mis`
+- 英文：`def_en, fn_en, how_en, cmp_en, nums_en, mis_en`
+- `term`（英文術語）+ `zh`（中文名）
+
+#### 題目 QUESTIONS（60-100 題，選擇:是非 ≈ 5:1）
+- `q`：中文題目，術語中英並陳
+- `opts`：4 個選項（中文為主，術語保留英文）
+- `oe`：每選項專屬中文解析
+- `exp`/`cc`：中文解析與陷阱提醒
+- `dif`：1（40%）/2（40%）/3（20%）
+- 每張卡 ≥2-3 題，≥15% 情境題
+
+#### EN 翻譯表
+每題提供完整英文版（`q, o, e, c, k, w`），英文模式時使用。
+
+#### 其他
+NUMBERS（中英意義）、FORMULAS、RECOG（中英）、TS_IDS/PROC_IDS（可空）。
+
+### Phase 3：填入模板
+
+```bash
+cp ../variants/template-zh-mixed.html ~/workspace/your_files/<科目>/<檔名>.html
+```
+
+品牌替換 + 8 個資料區替換。不可刪除通用常數。
+
+### Phase 4：驗證
+
+- `node --check`、資料完整性程式驗證、8 頁冒煙測試
+- 中英文模式各渲染一次，確認無缺翻譯導致的空白
+
+### Phase 5：交付
+
+`sandbox://` 附件 + 報告（題數、驗證結果、資料來源）。
+
+## 禁止事項
+
+- 不得修改引擎邏輯｜不虛構不確定內容｜`oe` 不可省略
+- localStorage key 不可重複｜干擾選項不可敷衍
