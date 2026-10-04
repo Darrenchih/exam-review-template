@@ -4,8 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 🌐 **線上試用**：啟用 GitHub Pages 後可在此試用（Settings → Pages → Deploy from branch → `main` → `/ (root)`）
-> 試用網址：`https://Darrenchih.github.io/exam-review-template/`
+> 🌐 **線上試用**：https://darrenchih.github.io/exam-review-template/
 
 以 HVAC 123 複習網站的完整引擎為基礎製成的通用模板。
 生成的網站與原系統**功能完全相同**，只差知識點內容。
