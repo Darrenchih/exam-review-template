@@ -1,1 +1,77 @@
-IyDlj6/opIfoo73mtYHnqIvvvJrngrrmlrDnp5Hnm67nlJ/miJDogIPoqabopIfnv5LntrLnq5kKCiMjIOS4gOWPpeipseeJiOacrAoKPiDpgbjkuIDlpZfoqp7oqIAg4oaSIOWUuOWwjeaHieaPkOekuuipnue1piBBSSDihpIgQUkg55Sf5oiQIOKGkiDpqZforYkg4oaSIOS6pOS7mAoKIyMg5Zub5aWX5bCN54WnCgp8IHwg5YWo6Iux5paHIHwg5YWo5Lit5paHIHwg5Lit6Iux5re36Zuc77yI5Lit5paH54K65Li777yJIHwg5Lit6Iux5re36Zuc77yI6Iux5paH54K65Li777yJIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgSFRNTCB8IGB2YXJpYW50cy90ZW1wbGF0ZS1lbi5odG1sYCB8IGB2YXJpYW50cy90ZW1wbGF0ZS16aC5odG1sYCB8IGB2YXJpYW50cy90ZW1wbGF0ZS16aC1taXhlZC5odG1sYCB8IGB2YXJpYW50cy90ZW1wbGF0ZS1lbi1taXhlZC5odG1sYCB8Cnwg5o+Q56S66KmeIHwgYHByb21wdHMvUFJPTVBUX0VOLm1kYCB8IGBwcm9tcHRzL1BST01QVF9aSC5tZGAgfCBgcHJvbXB0cy9QUk9NUFRfWkhfTUlYRUQubWRgIHwgYHByb21wdHMvUFJPTVBUX0VOX01JWEVELm1kYCB8CnwgVUkg6Kqe6KiAIHwg6Iux5paH77yI6Y6W5a6a77yJIHwg5Lit5paH77yI6Y6W5a6a77yJIHwg5Lit5paH6aCQ6Kit77yM5Y+v5YiH6Iux5paHIHwg6Iux5paH6aCQ6Kit77yM5Y+v5YiH5Lit5paHIHwKfCDpoYznm67oqp7oqIAgfCDoi7HmlocgfCDkuK3mlocgfCDkuK3mlofngrrkuLsgfCDoi7HmlofngrrkuLsgfAp8IOmBqeeUqOWgtOaZryB8IOiLseaWh+iAg+ippuOAgeWci+mam+itieeFpyB8IOS4reaWh+iAg+ippuOAgeWci+WFp+itieeFpyB8IOS4reaWh+WtuOe/kuOAgeiLseaWh+ihk+iqniB8IOiLseaWh+iAg+ippuOAgeS4reaWh+i8lOWKqSB8CgojIyDoqbPntLDmraXpqZ8KCiMjIyBTdGVwIDHvvJrpgbjoqp7oqIDniYjmnKwKCuagueaTmuiAg+ippuiqnuiogOmBuOaTh+S4iuihqOS4reeahOS4gOWll+OAguaLv+S4jea6luaZgu+8mgotIOiAg+ippueUqOiLseaWh+WHuumhjCDihpIg6Iux5paH54K65Li7Ci0g6ICD6Kmm55So5Lit5paH5Ye66aGMIOKGkiDkuK3mlofngrrkuLsKLSDlj6rmg7Pnt7Toi7Hmlocg4oaSIOWFqOiLseaWhwotIOWPquaDs+eci+S4reaWhyDihpIg5YWo5Lit5paHCgojIyMgU3RlcCAy77ya57WmIEFJIOaMh+S7pAoK5oqK5bCN5oeJIGBwcm9tcHRzL2Ag5LiL55qE5o+Q56S66Kme5YWo5paH6LK857Wm5Lu75L2VIEFJIGFnZW5077yMCuWGjeWKoOS4gOWPpe+8mgoKPiDjgIznp5Hnm67mmK8gW+enkeebruWQjeeosV3vvIznr4TlnI3mmK8gW+iAg+ippuevhOWcjV3jgI0KCkFJIOacg+aMieaPkOekuuipnueahCBQaGFzZSAxLTUg5Z+36KGM77ya56K66KqN56+E5ZyNIOKGkiDnlJ/miJDnn6XorZjpu54g4oaSIOWhq+WFpeaooeadvyDihpIg6amX6K2JIOKGkiDkuqTku5jjgIIKCiMjIyBTdGVwIDPvvJrmqqLmn6XkuqTku5gKCuaUtuWIsCBIVE1MIOW+jOeiuuiqje+8mgotIFsgXSDpoYzmlbjnrKblkIjpoJDmnJ/vvIjpoJDoqK0gNjAtMTAw77yJCi0gWyBdIOavj+WAi+mBuOmghemDveacieWwiOWxrOino+aekO+8iOm7nuS4gOmhjOetlOmMr+eci+eci++8iQotIFsgXSDkuK3oi7HliIfmj5vmraPluLjvvIjmt7fpm5zniYjvvIkKLSBbIF0g54Sh5LqC56K844CB54Sh56m655m96aCB6Z2iCgojIyMgU3RlcCA077ya6L+t5Luj5YSq5YyWCgrkuI3mu7/mhI/nmoTlnLDmlrnnm7TmjqXlkYroqLQgQUnvvIzkvovlpoLvvJoKLSDjgIznrKwgMyDnq6DnmoTpoYznm67lpKrnsKHllq7vvIzliqAgMTAg6aGM6Zuj6aGM44CNCi0g44CM55+l6K2Y5Y2h55qE5Y2A5Yil5qyE5L2N5YaN6Kmz57Sw5LiA6bue44CNCi0g44CM5YqgIDIwIOmhjOaDheWig+mhjOOAjQoKQUkg5pyD5aKe6YeP5pu05paw5b6M6YeN5paw5Lqk5LuY44CCCgojIyDnm67pjITntZDmp4sKCmBgYApleGFtLXJldmlldy10ZW1wbGF0ZS8K4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgICAgICAgIyDmnKzmlofku7YK4pSc4pSA4pSAIFdPUktGTE9XLm1kICAgICAgICAgICAgICAgIyDlj6/opIfoo73mtYHnqIvvvIjmnKzmlofku7bvvIkK4pSc4pSA4pSAIERBVEFfRk9STUFULm1kICAgICAgICAgICAgIyDos4fmlpnmoLzlvI/lj4PogIMK4pSc4pSA4pSAIHRlbXBsYXRlLmh0bWwgICAgICAgICAgICAgIyDln7rnpI7mqKHmnb/vvIjoi7HmlofngrrkuLvmt7fpm5zvvIkK4pSc4pSA4pSAIHZhcmlhbnRzLwrilIIgICDilJzilIDilIAgdGVtcGxhdGUtZW4uaHRtbCAgICAgICAgICMg5YWo6Iux5paHCuKUgiAgIOKUnOKUgOKUgCB0ZW1wbGF0ZS16aC5odG1sICAgICAgICAgIyDlhajkuK3mlocK4pSCICAg4pSc4pSA4pSAIHRlbXBsYXRlLXpoLW1peGVkLmh0bWwgICAjIOS4reiLsea3t+mbnO+8iOS4reaWh+eCuuS4u++8iQrilIIgICDilJTilIDilIAgdGVtcGxhdGUtZW4tbWl4ZWQuaHRtbCAgICMg5Lit6Iux5re36Zuc77yI6Iux5paH54K65Li777yJCuKUlOKUgOKUgCBwcm9tcHRzLwogICAg4pSc4pSA4pSAIFBST01QVF9FTi5tZCAgICAgICAgICAgICAjIOWFqOiLseaWh+aMh+S7pAogICAg4pSc4pSA4pSAIFBST01QVF9aSC5tZCAgICAgICAgICAgICAjIOWFqOS4reaWh+aMh+S7pAogICAg4pSc4pSA4pSAIFBST01QVF9aSF9NSVhFRC5tZCAgICAgICAjIOS4reaWh+eCuuS4u+aMh+S7pAogICAg4pSU4pSA4pSAIFBST01QVF9FTl9NSVhFRC5tZCAgICAgICAjIOiLseaWh+eCuuS4u+aMh+S7pApgYGAKCiMjIOazqOaEj+S6i+mghQoKMS4gKipsb2NhbFN0b3JhZ2Uga2V5IOWUr+S4gCoq77ya5q+P5YCL56eR55uu55So5LiN5ZCM55qEIGtlee+8iOWmgiBgbWF0aDEwMV9lbl92MWDvvInvvIzlkKbliYfpgLLluqbmnIPkupLnm7jopobok4vjgIIKMi4gKirlvJXmk47kuI3li5UqKu+8mjQg5aWXIEhUTUwg55qE5byV5pOO5a6M5YWo55u45ZCM77yM5Y+q5beu6Kqe6KiA6Kit5a6a6IiH6LOH5paZ44CCCjMuICoq6LOH5paZ5ZOB6LOqKirvvJpBSSDnlJ/miJDnmoTpoYznm67opoHmir3mn6XvvIznibnliKXmmK/lsIjmpa3np5Hnm67nmoTmlbjlrZfoiIflhazlvI/jgIIK
+# 可複製流程：為新科目生成考試複習網站
+
+## 一句話版本
+
+> 選一套語言 → 唸對應提示詞給 AI → AI 生成 → 驗證 → 交付
+
+## 四套對照
+
+| | 全英文 | 全中文 | 中英混雜（中文為主） | 中英混雜（英文為主） |
+|---|---|---|---|---|
+| HTML | `variants/template-en.html` | `variants/template-zh.html` | `variants/template-zh-mixed.html` | `variants/template-en-mixed.html` |
+| 提示詞 | `prompts/PROMPT_EN.md` | `prompts/PROMPT_ZH.md` | `prompts/PROMPT_ZH_MIXED.md` | `prompts/PROMPT_EN_MIXED.md` |
+| UI 語言 | 英文（鎖定） | 中文（鎖定） | 中文預設，可切英文 | 英文預設，可切中文 |
+| 題目語言 | 英文 | 中文 | 中文為主 | 英文為主 |
+| 適用場景 | 英文考試、國際證照 | 中文考試、國內證照 | 中文學習、英文術語 | 英文考試、中文輔助 |
+
+## 詳細步驟
+
+### Step 1：選語言版本
+
+根據考試語言選擇上表中的一套。拿不準時：
+- 考試用英文出題 → 英文為主
+- 考試用中文出題 → 中文為主
+- 只想練英文 → 全英文
+- 只想看中文 → 全中文
+
+### Step 2：給 AI 指令
+
+把對應 `prompts/` 下的提示詞全文貼給任何 AI agent，
+再加一句：
+
+> 「科目是 [科目名稱]，範圍是 [考試範圍]」
+
+AI 會按提示詞的 Phase 1-5 執行：確認範圍 → 生成知識點 → 填入模板 → 驗證 → 交付。
+
+### Step 3：檢查交付
+
+收到 HTML 後確認：
+- [ ] 題數符合預期（預設 60-100）
+- [ ] 每個選項都有專屬解析（點一題答錯看看）
+- [ ] 中英切換正常（混雜版）
+- [ ] 無亂碼、無空白頁面
+
+### Step 4：迭代優化
+
+不滿意的地方直接告訴 AI，例如：
+- 「第 3 章的題目太簡單，加 10 題難題」
+- 「知識卡的區別欄位再詳細一點」
+- 「加 20 題情境題」
+
+AI 會增量更新後重新交付。
+
+## 目錄結構
+
+```
+exam-review-template/
+├── README.md                 # 本文件
+├── WORKFLOW.md               # 可複製流程（本文件）
+├── DATA_FORMAT.md            # 資料格式參考
+├── template.html             # 基礎模板（英文為主混雜）
+├── variants/
+│   ├── template-en.html         # 全英文
+│   ├── template-zh.html         # 全中文
+│   ├── template-zh-mixed.html   # 中英混雜（中文為主）
+│   └── template-en-mixed.html   # 中英混雜（英文為主）
+└── prompts/
+    ├── PROMPT_EN.md             # 全英文指令
+    ├── PROMPT_ZH.md             # 全中文指令
+    ├── PROMPT_ZH_MIXED.md       # 中文為主指令
+    └── PROMPT_EN_MIXED.md       # 英文為主指令
+```
+
+## 注意事項
+
+1. **localStorage key 唯一**：每個科目用不同的 key（如 `math101_en_v1`），否則進度會互相覆蓋。
+2. **引擎不動**：4 套 HTML 的引擎完全相同，只差語言設定與資料。
+3. **資料品質**：AI 生成的題目要抽查，特別是專業科目的數字與公式。
