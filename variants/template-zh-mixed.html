@@ -1375,9 +1375,4 @@ QUESTIONS_RAW=QUESTIONS;LANG=(ST&&ST.lang)||'en';applyLang();applyTheme();applyS
 nav();render();initMemory();
 </script>
 </body>
-</html>const FORMULAS=[
-{id:"f1",name:"光行時間",name_en:"Light Travel Time",formula:"t = d / c",kp:"earth_sun",
- gen(){const AU=[1,2,5,10][Math.floor(Math.random()*4)];const en=LANG==='en';
-  return{q:en?`Distance = ${AU} AU, light takes 8.3 min per AU. Find time = ___ min`:`距離 ${AU} AU，光每 AU 約 8.3 分鐘，求時間 = ___ 分鐘`,a:AU*8.3,tol:0.5,unit:"分鐘",hint:`t = ${AU} × 8.3`};}},
-];
-
+</html>
