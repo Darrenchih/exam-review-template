@@ -10,7 +10,7 @@
 
 A **single-file, offline** exam review website: 8 study modes (study, practice, mock exam, weak review, mistake log, critical numbers, formula trainer, exam recognition) with progress saved automatically in your browser. **No install, no internet, no server required** — download and double-click to use.
 
-Want one for your own subject? Paste an instruction from `prompts/` to any AI. It will confirm the scope with you first, then research the subject, generate 60–100 questions, and deliver the finished site. The prompts are self-contained: any person's any AI agent can run them with no background knowledge.
+Want one for your own subject? **Just copy a message and paste it to any AI** — the AI handles the rest (see "Generate One for Your Subject" below).
 
 ## Try It Now
 
@@ -43,12 +43,27 @@ Sample data shown:
 
 ## Generate One for Your Subject
 
-Two steps (full process in `WORKFLOW.md`):
+**Two steps, no AI experience needed:**
 
-1. **Pick a language variant** from the table below. When unsure, match the language your exam is written in.
-2. **Give the instruction to AI**: paste the full prompt from the matching `prompts/` file to any AI agent, adding "the subject is [subject name], covering [scope]".
+1. **Copy the message below** (replace "All Chinese" with the variant you want: All Chinese / All English / Chinese primary / English primary)
+2. **Paste it to any AI** (ChatGPT, Claude, Muse…), then just answer its questions
 
-The AI will **confirm the scope with you first** (Phase 1), then research, generate all knowledge content (60–100 questions, per-option explanations, full knowledge-card fields), fill the template, validate, and deliver. The engine logic should not be modified.
+```
+I want to generate an exam review website for my subject using this template.
+
+Repo: https://github.com/Darrenchih/exam-review-template
+Language variant I want: All Chinese (choose one: All Chinese / All English / Chinese primary / English primary)
+
+Please:
+1. Read the matching prompt (prompts/), HTML template (variants/), and DATA_FORMAT.md from the repo:
+   - All Chinese → prompts/PROMPT_ZH.md + variants/template-zh.html
+   - All English → prompts/PROMPT_EN.md + variants/template-en.html
+   - Chinese primary → prompts/PROMPT_ZH_MIXED.md + variants/template-zh-mixed.html
+   - English primary → prompts/PROMPT_EN_MIXED.md + variants/template-en-mixed.html
+2. Follow Phase 1 of the prompt: confirm the subject name and exam scope with me first, then continue.
+```
+
+The AI reads everything from the repo itself, confirms your subject and scope first, then researches, generates 60–100 questions, fills the template, validates, and delivers. **You don't need to download anything** or know how AI works.
 
 ## Four Language Variants
 
@@ -67,6 +82,7 @@ The AI will **confirm the scope with you first** (Phase 1), then research, gener
 | `DATA_FORMAT.md` | Field specifications for all 9 data structures |
 | `CONTRIBUTING.md` | Contribution guide (bilingual) |
 | `KNOWN_ISSUES.md` | Known issues tracker |
+| `DISCLAIMER.md` | Disclaimer (bilingual) |
 | `CHANGELOG.md` | Version history |
 | `template.html` | Base template (English-primary mixed) |
 | `variants/` | 4 HTML variants |
@@ -90,7 +106,11 @@ A: Yes, if they share the same localStorage key. Use a unique key per subject (e
 A: By design — those two variants lock a single language. Use a mixed variant if you need switching.
 
 **Q: Can I use AI-generated questions directly for my exam?**
-A: No. Always spot-check AI output — especially numbers and formulas in technical subjects — against your course materials and classroom instruction.
+A: No. Always spot-check AI output — especially numbers and formulas in technical subjects — against your course materials and classroom instruction. See the [Disclaimer](DISCLAIMER.md).
+
+## Disclaimer
+
+In short: AI-generated content may be wrong — verify against your course materials; this project is a study aid only and does not guarantee exam results; not affiliated with any school or examination body; use at your own risk. Full text in [DISCLAIMER.md](DISCLAIMER.md).
 
 ## License
 
