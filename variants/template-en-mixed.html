@@ -931,7 +931,7 @@ function wrongCountKp(kpId){const s=ST.kp[kpId];return s?s.n-s.ok:0;}
 
 /* ============ 本地記憶資料夾 ============
    進度除了瀏覽器 localStorage，也可同步到使用者電腦的資料夾：
-   <選擇的位置>/HVAC123記憶資料/progress.json（handle 存 IndexedDB） */
+   <選擇的位置>/SampleSubject記憶資料/progress.json（handle 存 IndexedDB） */
 const MEMDB='hvac123mem',MEMKEY='memdir',MEMFOLDER='SampleSubject記憶資料',MEMFILE='progress.json';
 let MEM={dir:null,status:'none',lastSync:null};
 const memSupported=()=>typeof window.showDirectoryPicker==='function';
@@ -1116,7 +1116,7 @@ function vDash(M){
   <div class="card"><h2>${T("本地記憶系統")}</h2><div id="memcard"><p class="muted small">${T("載入中…")}</p></div></div>
   <div class="card"><h2>${T("學習流程")}</h2>
     <p class="muted">${T("儀表板")} → ${T("查看弱點")} → ${T("選知識點")} → <b>${T("學習")}</b> → <b>${T("練習")}</b>（${T("錯題看解釋")}）→ <b>${T("重做")}</b> → ${T("掌握度提升")} → <b>${T("模擬考")}</b> → ${T("本次總結")} → ${T("弱點複習")}</p>
-    <div class="rowbtns"><button class="btn sm danger" onclick="cfm(T(\"確定清除所有進度、錯題與掌握度？\")).then(ok=>{if(ok){localStorage.removeItem('${LS}');location.reload();}})}">${T("清除全部進度")}</button></div>
+    <div class="rowbtns"><button class="btn sm danger" onclick="cfm(T('確定清除所有進度、錯題與掌握度？')).then(ok=>{if(ok){localStorage.removeItem('${LS}');location.reload();}})}">${T("清除全部進度")}</button></div>
   </div>`;
 
   const es=$("#exam_set");if(es)es.onclick=()=>{ST.examDate=$("#exam_date").value;save();render();toast(T("已設定考試日期"));}}
