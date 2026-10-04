@@ -421,8 +421,8 @@ const STR_EN={
 "關鍵數字": "Key Numbers",
 "公式訓練": "Formula Practice",
 "考試辨認": "Exam Recognition",
-"HVAC 123 考試複習 — Modules 01–04": "HVAC 123 Exam Review — Modules 01–04",
-"HVAC 123 考試複習": "HVAC 123 Exam Review",
+"HVAC 123 考試複習 — Modules 01–04": "Sample Subject Exam Review — Modules 01–04",
+"HVAC 123 考試複習": "Sample Subject Exam Review",
 "☀️ 淺色": "☀️ Light",
 "🌙 深色": "🌙 Dark",
 "強制淺色模式": "Force light mode",
@@ -636,6 +636,8 @@ const STR_EN={
 "資料不足，至少需要 2 次測驗記錄。": "Not enough data. Need at least 2 sessions.",
 "掌握度趨勢": "Mastery Trend",
 "題，確定交卷？": "questions. Submit?",
+"交卷": "Submit",
+"題號導覽": "Question Navigator",
 "已作答": "Answered",
 "取消": "Cancel",
 "確定": "Confirm",
@@ -797,7 +799,7 @@ function profileData(){
 function exportReport(){
   const d=profileData();
   const L=[];
-  L.push(LANG==='en'?"HVAC 123 Learning Report":"HVAC 123 學習報告");
+  L.push(LANG==='en'?"Sample Subject Learning Report":"範例科目 學習報告");
   L.push("=".repeat(40));
   L.push("");
   const totalQ=bankTotal(),mQ=bankMastered();
@@ -930,7 +932,7 @@ function wrongCountKp(kpId){const s=ST.kp[kpId];return s?s.n-s.ok:0;}
 /* ============ 本地記憶資料夾 ============
    進度除了瀏覽器 localStorage，也可同步到使用者電腦的資料夾：
    <選擇的位置>/HVAC123記憶資料/progress.json（handle 存 IndexedDB） */
-const MEMDB='hvac123mem',MEMKEY='memdir',MEMFOLDER='HVAC123記憶資料',MEMFILE='progress.json';
+const MEMDB='hvac123mem',MEMKEY='memdir',MEMFOLDER='SampleSubject記憶資料',MEMFILE='progress.json';
 let MEM={dir:null,status:'none',lastSync:null};
 const memSupported=()=>typeof window.showDirectoryPicker==='function';
 function idbOpen(){return new Promise((res,rej)=>{try{const r=indexedDB.open(MEMDB,1);r.onupgradeneeded=()=>r.result.createObjectStore('s');r.onsuccess=()=>res(r.result);r.onerror=()=>rej(r.error);}catch(e){rej(e);}});}
@@ -1314,6 +1316,7 @@ function retryPracQ(){const sid="p"+PRAC.idx;delete ORDERMAP[sid];delete SELMAP[
 /* ============ 練習模式 ============ */
 let PRAC=null;
 function vPractice(M){
+  WCTX.mode="prac";
   if(!PRAC||PRAC.done){vPracticeSetup(M);return;}
   renderPracQ(M);
 }
@@ -1354,6 +1357,7 @@ function startPractice(cat,kp,n,mode){
   WCTX.mode="prac";render();
 }
 function renderPracQ(M){
+  WCTX.mode="prac";
   M=M||$("#main");const q=PRAC.qs[PRAC.idx];PRAC_Q=q;CURQ=q;
   const sid="p"+PRAC.idx;
   const modeTitle=PRAC.label||(PRAC.mode==="weak"?T("弱點複習"):PRAC.mode==="ts"?T("故障診斷"):PRAC.mode==="proc"?T("程序訓練"):T("練習模式"));
@@ -1444,12 +1448,12 @@ function renderEQ(M){
   M=M||$("#main");const q=EXAM.qs[EXAM.idx],sid="e"+EXAM.idx;CURQ=q;
   const saved=EXAM.ans[q.id];
   const dots=EXAM.qs.map((x,i)=>`<button class="btn sm ${EXAM.ans[x.id]!=null?"":"ghost"}" style="min-width:44px" onclick="eqGo(${i})">${i+1}</button>`).join("");
-  M.innerHTML=`<div class="card"><h2>模擬考</h2><div class="stepdots">第 ${EXAM.idx+1} / ${EXAM.qs.length} 題 · 已作答 ${Object.keys(EXAM.ans).length}</div>
+  M.innerHTML=`<div class="card"><h2>${T("模擬考")}</h2><div class="stepdots">${T("第")} ${EXAM.idx+1} / ${EXAM.qs.length} ${T("題")} · ${T("已作答")} ${Object.keys(EXAM.ans).length}</div>
   <div id="qb_${sid}">${qBody(q,sid,saved)}</div>
-  <div class="rowbtns"><button class="btn ghost" id="eq_prev" ${EXAM.idx===0?"disabled":""}>← 上一題</button>
-  <button class="btn ghost" id="eq_next" ${EXAM.idx===EXAM.qs.length-1?"disabled":""}>下一題 →</button>
-  <button class="btn danger" id="eq_sub">交卷</button></div></div>
-  <div class="card"><h2>題號導覽</h2><div class="rowbtns">${dots}</div></div>`;
+  <div class="rowbtns"><button class="btn ghost" id="eq_prev" ${EXAM.idx===0?"disabled":""}>${T("← 上一題")}</button>
+  <button class="btn ghost" id="eq_next" ${EXAM.idx===EXAM.qs.length-1?"disabled":""}>${T("下一題 →")}</button>
+  <button class="btn danger" id="eq_sub">${T("交卷")}</button></div></div>
+  <div class="card"><h2>${T("題號導覽")}</h2><div class="rowbtns">${dots}</div></div>`;
   $("#eq_prev").onclick=()=>{saveExamPage();EXAM.idx--;render();};
   $("#eq_next").onclick=()=>{saveExamPage();EXAM.idx++;render();};
   $("#eq_sub").onclick=()=>{cfm(`${T("已作答")} ${Object.keys(EXAM.ans).length} / ${EXAM.qs.length} ${T("題，確定交卷？")}`).then(ok=>{if(ok){saveExamPage();gradeExam();}});};
