@@ -177,8 +177,8 @@ const DATA_V=1; /* 資料版本 */
 格式: {id:"唯一英文ID", zh:"中文名稱", en:"English Name"}
 ============================================================ */
 const CATS=[
-{id:"cat1",zh:"分類一",en:"Category One"},
-{id:"cat2",zh:"分類二",en:"Category Two"},
+{id:"planets",zh:"行星",en:"Planets"},
+{id:"sun",zh:"太陽",en:"The Sun"},
 ];
 const catName=id=>{const c=CATS.find(c=>c.id===id);if(!c)return id;return LANG==="en"?c.en:c.zh;};
 const kpName=k=>LANG==="en"?k.term:`${k.term}（${k.zh}）`;
@@ -210,27 +210,41 @@ const fFormula=f=>LANG==='en'?(f.formula_en||f.formula):f.formula;
 - mis/mis_en: 常見陷阱陣列（中文/英文）
 ============================================================ */
 const KPS=[
-{id:"sample_kp1",cat:"cat1",term:"Sample Term One",zh:"範例術語一",
-def:"這是第一個範例知識點的中文定義。",def_en:"This is the English definition of the first sample knowledge point.",
-fn:"這是它的作用說明。",fn_en:"This is its function description.",
-how:"這是它的運作方式說明。",how_en:"This is how it works.",
-cmp:"這是它與相似概念的區別。",cmp_en:"This is how it differs from similar concepts.",
-nums:["要點一：重要數字或事實"],nums_en:["Key fact one: important number or fact"],
-mis:["陷阱一：常見誤解"],mis_en:["Trap one: common misconception"]},
-{id:"sample_kp2",cat:"cat1",term:"Sample Term Two",zh:"範例術語二",
-def:"第二個範例知識點的定義。",def_en:"Definition of the second sample knowledge point.",
-fn:"作用說明。",fn_en:"Function description.",
-how:"運作方式。",how_en:"How it works.",
-cmp:"區別說明。",cmp_en:"Distinction.",
-nums:[],nums_en:[],
-mis:[],mis_en:[]},
-{id:"sample_kp3",cat:"cat2",term:"Sample Term Three",zh:"範例術語三",
-def:"第三個範例知識點的定義。",def_en:"Definition of the third sample knowledge point.",
-fn:"作用說明。",fn_en:"Function description.",
-how:"運作方式。",how_en:"How it works.",
-cmp:"區別說明。",cmp_en:"Distinction.",
-nums:[],nums_en:[],
-mis:[],mis_en:[]},
+{id:"eight_planets",cat:"planets",term:"Eight Planets",zh:"八大行星",
+ def:"環繞太陽運行的八顆主要天體，依序為水星、金星、地球、火星、木星、土星、天王星、海王星。",def_en:"The eight major celestial bodies orbiting the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+ fn:"構成太陽系的主要行星系統，是天文學基礎。",fn_en:"They form the main planetary system of the solar system, fundamental to astronomy.",
+ how:"行星靠太陽引力維持軌道運行，離太陽越遠公轉週期越長。",how_en:"Planets stay in orbit via the Sun's gravity; farther planets have longer orbital periods.",
+ cmp:"不要與矮行星（如冥王星）混淆：2006 年冥王星被降級為矮行星。",cmp_en:"Not to be confused with dwarf planets (e.g., Pluto, demoted in 2006).",
+ nums:["八大行星依序：水金地火木土天海"],nums_en:["Order: Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune"],
+ mis:["以為冥王星還是行星"],mis_en:["Thinking Pluto is still a planet"]},
+{id:"terrestrial",cat:"planets",term:"Terrestrial Planets",zh:"類地行星",
+ def:"水星、金星、地球、火星四顆以岩石為主、體積較小的內側行星。",def_en:"The four inner, smaller, rocky planets: Mercury, Venus, Earth, Mars.",
+ fn:"有固體表面，可能存在液態水（地球）。",fn_en:"They have solid surfaces; liquid water may exist (Earth).",
+ how:"形成於太陽系內側高溫區，重元素沉積成岩質核心。",how_en:"Formed in the hot inner solar system where heavy elements settled into rocky cores.",
+ cmp:"類地行星 vs 氣態巨行星：前者小而硬，後者大而輕、無固體表面。",cmp_en:"Terrestrial vs gas giants: small and rocky vs large, light, no solid surface.",
+ nums:[],nums_en:[],
+ mis:["以為火星比地球大"],mis_en:["Thinking Mars is bigger than Earth"]},
+{id:"gas_giants",cat:"planets",term:"Gas Giants",zh:"氣態巨行星",
+ def:"木星、土星、 天王星、海王星四顆體積龐大、以氣體為主的外側行星。",def_en:"The four massive outer planets composed mainly of gas: Jupiter, Saturn, Uranus, Neptune.",
+ fn:"木星是太陽系最大行星，質量為其他七顆行星總和的 2.5 倍。",fn_en:"Jupiter is the largest planet, 2.5x the mass of all other planets combined.",
+ how:"形成於外側低溫區，捕獲大量氫氦氣體。",how_en:"Formed in the cold outer region, capturing vast amounts of hydrogen and helium.",
+ cmp:"木星土星是氣態巨行星，天王星海王星又稱冰巨行星（甲烷冰多）。",cmp_en:"Jupiter/Saturn are gas giants; Uranus/Neptune are ice giants (rich in methane ice).",
+ nums:["木星質量 ≈ 其他七顆總和 × 2.5"],nums_en:["Jupiter mass ≈ 2.5x all other planets combined"],
+ mis:["以為土星最大（其實是木星）"],mis_en:["Thinking Saturn is the largest (it's Jupiter)"]},
+{id:"sun_basic",cat:"sun",term:"The Sun",zh:"太陽",
+ def:"太陽系中心的恆星，佔太陽系總質量的 99.86%。",def_en:"The star at the center of the solar system, 99.86% of its total mass.",
+ fn:"提供光和熱，是地球生命的能量來源。",fn_en:"Provides light and heat, the energy source for life on Earth.",
+ how:"核心進行氫核融合（氫→氦），釋放巨大能量。",how_en:"Hydrogen fusion in the core (H→He) releases enormous energy.",
+ cmp:"太陽是恆星不是行星；恆星自己發光，行星反射恆星光。",cmp_en:"The Sun is a star, not a planet; stars emit light, planets reflect it.",
+ nums:["直徑約 139 萬公里", "表面溫度約 5500°C"],nums_en:["Diameter ≈ 1.39 million km", "Surface temp ≈ 5500°C"],
+ mis:["以為太陽是行星"],mis_en:["Thinking the Sun is a planet"]},
+{id:"earth_sun",cat:"sun",term:"Earth-Sun Distance",zh:"日地距離",
+ def:"地球到太陽的平均距離約 1.496 億公里，定義為 1 天文單位（AU）。",def_en:"Average Earth-Sun distance ≈ 149.6 million km, defined as 1 AU.",
+ fn:"光從太陽到地球約需 8 分 20 秒。",fn_en:"Light takes about 8 min 20 sec to travel from the Sun to Earth.",
+ how:"光速約 30 萬公里/秒，距離除以光速即得時間。",how_en:"Light speed ≈ 300,000 km/s; divide distance by speed to get time.",
+ cmp:"光年是距離單位不是時間單位（光走一年的距離）。",cmp_en:"A light-year is distance, not time (distance light travels in a year).",
+ nums:["1 AU = 1.496 億公里", "光到地球約 8 分 20 秒"],nums_en:["1 AU = 149.6 million km", "Light to Earth ≈ 8 min 20 sec"],
+ mis:["把光年當時間單位"],mis_en:["Treating light-year as a time unit"]},
 ];
 /* ============ 題庫 ============
 t: mc 選擇 / tf 是非 / match 配對 / order 排序 / short 簡答 / calc 計算 / scen 情境 */
@@ -247,12 +261,30 @@ t: "mc" 選擇題 / "tf" 是非題
 - t:"tf", a: true/false（不需 opts/oe）
 ============================================================ */
 let QUESTIONS=[
-{id:"q1",cat:"cat1",kp:"sample_kp1",t:"mc",q:"以下哪個是範例術語一的正確描述？",opts:["錯誤選項A","正確選項B","錯誤選項C","錯誤選項D"],a:1,oe:["選項A錯誤的原因說明","正確：選項B正確的原因","選項C錯誤的原因說明","選項D錯誤的原因說明"],exp:"整體解析：為什麼答案是B。",cc:"易混淆提醒：注意A和B的區別。",dif:1,keys:["關鍵字一"]},
-{id:"q2",cat:"cat1",kp:"sample_kp1",t:"mc",q:"關於範例術語一，下列何者正確？",opts:["正確選項A","錯誤選項B","錯誤選項C","錯誤選項D"],a:0,oe:["正確：選項A正確的原因","選項B錯誤的原因","選項C錯誤的原因","選項D錯誤的原因"],exp:"整體解析。",cc:"易混淆提醒。",dif:2,keys:["關鍵字二"]},
-{id:"q3",cat:"cat1",kp:"sample_kp2",t:"tf",q:"範例術語二的作用是XXX。",a:true,exp:"解析：為什麼是對的。",cc:"易混淆提醒。",dif:1,keys:["關鍵字三"]},
-{id:"q4",cat:"cat2",kp:"sample_kp3",t:"mc",q:"範例術語三與範例術語一的主要區別是？",opts:["錯誤選項A","錯誤選項B","正確選項C","錯誤選項D"],a:2,oe:["選項A錯誤原因","選項B錯誤原因","正確：選項C正確原因","選項D錯誤原因"],exp:"整體解析。",cc:"易混淆提醒。",dif:2,keys:["關鍵字四"]},
-{id:"q5",cat:"cat2",kp:"sample_kp3",t:"tf",q:"範例術語三屬於分類一。",a:false,exp:"解析：它屬於分類二，不是分類一。",cc:"注意分類不要搞混。",dif:1,keys:["關鍵字五"]},
-{id:"q6",cat:"cat2",kp:"sample_kp3",t:"mc",q:"以下哪個關鍵字與範例術語三相關？",opts:["錯誤A","錯誤B","錯誤C","正確D"],a:3,oe:["A錯誤原因","B錯誤原因","C錯誤原因","正確：D正確原因"],exp:"整體解析。",cc:"易混淆提醒。",dif:3,keys:["關鍵字六"]},
+{id:"d1",cat:"planets",kp:"eight_planets",t:"mc",q:"離太陽最近的行星是？",opts:["金星（Venus）", "水星（Mercury）", "地球（Earth）", "火星（Mars）"],a:1,oe:["金星是第二近，不是最近", "正確：水星離太陽最近", "地球是第三近", "火星是第四近"],exp:"八大行星依序：水金地火木土天海，水星最近。",cc:"水星（Mercury）vs 水星？注意是 Mercury 不是 Venus。",dif:1,keys:["水星最近"],
+ en:{q:"Which planet is closest to the Sun?",o:["Venus", "Mercury", "Earth", "Mars"],e:"Order: Mercury Venus Earth Mars Jupiter Saturn Uranus Neptune. Mercury is first.",c:"Don't confuse Mercury with Venus.",k:["Mercury closest"],w:["Venus is second, not closest", "Correct: Mercury is closest to the Sun", "Earth is third", "Mars is fourth"]}},
+{id:"d2",cat:"planets",kp:"gas_giants",t:"mc",q:"太陽系中體積最大的行星是？",opts:["土星（Saturn）", "木星（Jupiter）", "天王星（Uranus）", "海王星（Neptune）"],a:1,oe:["土星第二大，有光環但不是最大", "正確：木星最大", "天王星比木星小很多", "海王星是最小的氣態行星"],exp:"木星質量約為其他七顆行星總和的 2.5 倍。",cc:"最大的是木星，不是土星（土星只是環最明顯）。",dif:1,keys:["木星最大"],
+ en:{q:"Which is the largest planet in the solar system?",o:["Saturn", "Jupiter", "Uranus", "Neptune"],e:"Jupiter's mass is about 2.5x all other planets combined.",c:"Largest is Jupiter, not Saturn (Saturn just has the most visible rings).",k:["Jupiter largest"],w:["Saturn is second largest, famous for rings but not biggest", "Correct: Jupiter is the largest", "Uranus is much smaller", "Neptune is the smallest gas planet"]}},
+{id:"d3",cat:"planets",kp:"terrestrial",t:"mc",q:"以下哪組全是類地行星？",opts:["水星、金星、木星", "地球、火星、土星", "水星、金星、地球、火星", "木星、土星、天王星"],a:2,oe:["木星是氣態巨行星", "土星是氣態巨行星", "正確：四顆都是岩質內行星", "三顆都是氣態/冰巨行星"],exp:"類地行星：水星、金星、地球、火星（內側四顆岩質行星）。",cc:"記口訣：內四顆是類地（水金地火），外四顆是巨行星。",dif:2,keys:["類地行星"],
+ en:{q:"Which group are all terrestrial planets?",o:["Mercury, Venus, Jupiter", "Earth, Mars, Saturn", "Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus"],e:"Terrestrial: Mercury, Venus, Earth, Mars (four inner rocky planets).",c:"Inner four are terrestrial, outer four are giants.",k:["terrestrial"],w:["Jupiter is a gas giant", "Saturn is a gas giant", "Correct: all four are rocky inner planets", "All three are gas/ice giants"]}},
+{id:"d4",cat:"sun",kp:"sun_basic",t:"mc",q:"太陽的能量主要來自？",opts:["燃燒煤炭", "氫核融合", "化學反應", "重力壓縮"],a:1,oe:["太陽沒有煤炭可燒", "正確：核心氫融合成氦釋放能量", "化學反應能量遠遠不夠", "重力是觸發條件，不是能量來源"],exp:"太陽核心溫度極高，氫原子核融合成氦，質量虧損轉為能量。",cc:"是核融合不是核分裂，也不是燃燒。",dif:1,keys:["氫核融合"],
+ en:{q:"The Sun's energy mainly comes from?",o:["Burning coal", "Hydrogen fusion", "Chemical reactions", "Gravitational compression"],e:"In the hot core, hydrogen nuclei fuse into helium; lost mass becomes energy.",c:"Fusion, not fission or burning.",k:["fusion"],w:["No coal on the Sun", "Correct: core hydrogen fuses into helium", "Chemical energy is far too weak", "Gravity triggers it but isn't the source"]}},
+{id:"d5",cat:"sun",kp:"earth_sun",t:"mc",q:"光從太陽到達地球約需多久？",opts:["8 秒", "8 分鐘", "8 小時", "8 天"],a:1,oe:["8 秒連月球都到不了（月球約 1.3 秒）", "正確：約 8 分 20 秒", "8 小時太久了", "8 天更不可能"],exp:"日地距離 1.496 億公里 ÷ 光速 30 萬公里/秒 ≈ 500 秒 ≈ 8 分 20 秒。",cc:"記住 8 分鐘這個數量級。",dif:2,keys:["8分鐘"],
+ en:{q:"About how long does light take from the Sun to Earth?",o:["8 seconds", "8 minutes", "8 hours", "8 days"],e:"149.6M km ÷ 300,000 km/s ≈ 500 sec ≈ 8 min 20 sec.",c:"Remember the 8-minute order of magnitude.",k:["8 minutes"],w:["8 sec can't even reach the Moon (1.3 sec)", "Correct: about 8 min 20 sec", "8 hours is way too long", "8 days impossible"]}},
+{id:"d6",cat:"planets",kp:"eight_planets",t:"mc",q:"2006 年被降級為矮行星的是？",opts:["冥王星（Pluto）", "火星（Mars）", "水星（Mercury）", "金星（Venus）"],a:0,oe:["正確：冥王星 2006 年被降級", "火星一直是行星", "水星一直是行星", "金星一直是行星"],exp:"國際天文學聯合會 2006 年重新定義行星，冥王星改列矮行星。",cc:"現在是八大行星，不是九大。",dif:2,keys:["冥王星"],
+ en:{q:"Which was demoted to dwarf planet in 2006?",o:["Pluto", "Mars", "Mercury", "Venus"],e:"IAU redefined 'planet' in 2006; Pluto became a dwarf planet.",c:"Eight planets now, not nine.",k:["Pluto"],w:["Correct: Pluto demoted in 2006", "Mars is still a planet", "Mercury is still a planet", "Venus is still a planet"]}},
+{id:"d7",cat:"planets",kp:"terrestrial",t:"mc",q:"表面溫度最高的行星是？",opts:["水星（Mercury）", "金星（Venus）", "火星（Mars）", "木星（Jupiter）"],a:1,oe:["水星離太陽最近但沒有大氣保溫", "正確：金星溫室效應最強，約 464°C", "火星很冷，平均 -63°C", "木星是氣態行星，談表面溫度不準確"],exp:"金星濃厚二氧化碳大氣造成失控溫室效應，表面約 464°C，比水星還熱。",cc:"最熱的是金星不是水星（大氣比距離更重要）。",dif:2,keys:["金星最熱"],
+ en:{q:"Which planet has the highest surface temperature?",o:["Mercury", "Venus", "Mars", "Jupiter"],e:"Venus's thick CO2 atmosphere causes runaway greenhouse effect, ~464°C, hotter than Mercury.",c:"Hottest is Venus, not Mercury (atmosphere matters more than distance).",k:["Venus hottest"],w:["Mercury is closest but has no atmosphere to trap heat", "Correct: Venus greenhouse effect, ~464°C", "Mars is cold, avg -63°C", "Jupiter is gaseous, surface temp N/A"]}},
+{id:"d8",cat:"sun",kp:"sun_basic",t:"mc",q:"太陽佔太陽系總質量的比例約為？",opts:["50%", "80%", "99.86%", "100%"],a:2,oe:["50% 太少了", "80% 還是太少", "正確：約 99.86%", "100% 不對，還有行星等"],exp:"太陽質量佔太陽系 99.86%，其他所有天體加起來不到 0.2%。",cc:"記住 99.86% 這個數字。",dif:1,keys:["99.86%"],
+ en:{q:"About what % of solar system mass is the Sun?",o:["50%", "80%", "99.86%", "100%"],e:"The Sun is 99.86% of solar system mass; everything else is under 0.2%.",c:"Remember 99.86%.",k:["99.86%"],w:["50% far too low", "80% still too low", "Correct: about 99.86%", "100% wrong, planets exist"]}},
+{id:"d9",cat:"planets",kp:"gas_giants",t:"tf",q:"土星的光環主要由冰和岩石碎塊組成。",a:true,exp:"正確。土星環是無數冰塊和岩石碎塊，不是固體圓盤。",cc:"環不是實心的。",dif:1,keys:["土星環"],
+ en:{q:"Saturn's rings are mainly made of ice and rock fragments.",e:"True. Saturn's rings are countless ice and rock chunks, not a solid disc.",c:"Rings are not solid.",k:["Saturn rings"]}},
+{id:"d10",cat:"sun",kp:"earth_sun",t:"tf",q:"光年是時間單位。",a:false,exp:"錯誤。光年是距離單位，指光在一年內走的距離（約 9.46 兆公里）。",cc:"有「年」字但不是時間單位，考試常考。",dif:1,keys:["光年"],
+ en:{q:"A light-year is a unit of time.",e:"False. A light-year is distance: how far light travels in one year (~9.46 trillion km).",c:"Has 'year' in the name but it's distance — common exam trap.",k:["light-year"]}},
+{id:"d11",cat:"planets",kp:"eight_planets",t:"mc",q:"太空人說：「我在這顆行星上看到太陽從西邊升起。」最可能是哪顆？",opts:["地球（Earth）", "火星（Mars）", "金星（Venus）", "木星（Jupiter）"],a:2,oe:["地球自轉由西向東，日出在東", "火星與地球類似", "正確：金星自轉方向與其他行星相反", "木星自轉正常方向"],exp:"金星自轉是逆行的（由東向西），所以太陽從西邊升起。",cc:"金星是唯一自轉逆行的大行星。",dif:3,keys:["金星逆行"],
+ en:{q:"An astronaut says: 'I saw the sun rise in the west here.' Which planet?",o:["Earth", "Mars", "Venus", "Jupiter"],e:"Venus has retrograde rotation (east to west), so the sun rises in the west.",c:"Venus is the only major planet with retrograde rotation.",k:["Venus retrograde"],w:["Earth rotates west to east, sunrise in east", "Mars similar to Earth", "Correct: Venus rotates backwards", "Jupiter rotates normally"]}},
+{id:"d12",cat:"sun",kp:"sun_basic",t:"tf",q:"恆星自己會發光，行星只能反射恆星的光。",a:true,exp:"正確。這是恆星與行星的根本區別。",cc:"太陽是恆星，八大行星都不發光。",dif:2,keys:["恆星行星"],
+ en:{q:"Stars emit their own light; planets only reflect starlight.",e:"True. This is the fundamental star vs planet distinction.",c:"The Sun is a star; no planet emits light.",k:["star vs planet"]}},
 ];
 /* ============================================================
 題目預設顯示英文，此處提供英文版
@@ -270,11 +302,11 @@ EN["q5"]={q:"Sample Term Three belongs to Category One.",e:"Explanation: it belo
 EN["q6"]={q:"Which keyword is related to Sample Term Three?",o:["Wrong A","Wrong B","Wrong C","Correct D"],e:"Overall explanation.",c:"Confusion note.",k:["keyword six"],w:["Why A wrong","Why B wrong","Why C wrong","Correct: why D right"]};
 const ZHMAP={};
 QUESTIONS.forEach(q=>{ZHMAP[q.id]={q:q.q,opts:q.opts};});
-let LANG='zh',QUESTIONS_RAW=null; // [ZH-MIXED] 預設中文，可切換
+let LANG='zh',QUESTIONS_RAW=null;
 function applyLang(){
-  // 題目永遠預設英文（LANG 只控制 UI 語言）；中文模式下每題可用按鈕展開中文
+  // [ZH-MIXED] 中文為主：只在英文模式套用英文
   QUESTIONS=QUESTIONS_RAW.map(r=>{
-    if(r.en){
+    if(LANG==='en'&&r.en){
       const n=Object.assign({},r),e=r.en;
       if(e.q)n.q=e.q;if(e.opts)n.opts=e.opts;if(e.exp)n.exp=e.exp;
       if(e.cc)n.cc=e.cc;if(e.keys)n.keys=e.keys;
@@ -336,34 +368,37 @@ function toggleZh(sid,qid,btn){
 /* ============================================================
 考試必背的數字
 格式: {n:"數字", m:"中文意義", m_en:"English meaning", kp:"知識點ID"}
-若無則設為空陣列: const NUMBERS=[];
+若無則設為空陣列: [
+{n:"1.496 億公里",m:"日地平均距離（1 AU）",m_en:"Average Earth-Sun distance (1 AU)",kp:"earth_sun"},
+{n:"8 分 20 秒",m:"光從太陽到地球的時間",m_en:"Light travel time Sun to Earth",kp:"earth_sun"},
+{n:"139 萬公里",m:"太陽直徑",m_en:"Sun diameter",kp:"sun_basic"},
+{n:"99.86%",m:"太陽佔太陽系總質量比例",m_en:"Sun's share of solar system mass",kp:"sun_basic"},
+];
 ============================================================ */
 const NUMBERS=[
-{n:"100",m:"範例數字一的意義",m_en:"Meaning of sample number one",kp:"sample_kp1"},
-{n:"200",m:"範例數字二的意義",m_en:"Meaning of sample number two",kp:"sample_kp2"},
+{n:"1.496 億公里",m:"日地平均距離（1 AU）",m_en:"Average Earth-Sun distance (1 AU)",kp:"earth_sun"},
+{n:"8 分 20 秒",m:"光從太陽到地球的時間",m_en:"Light travel time Sun to Earth",kp:"earth_sun"},
+{n:"139 萬公里",m:"太陽直徑",m_en:"Sun diameter",kp:"sun_basic"},
+{n:"99.86%",m:"太陽佔太陽系總質量比例",m_en:"Sun's share of solar system mass",kp:"sun_basic"},
 ];
 /* ============================================================
 可自動出題練習的公式
 格式: {id:"唯一ID", name:"中文名", name_en:"English", formula:"公式",
 kp:"知識點ID", gen(){...}}
 gen() 回傳 {q:"題目", a:答案數字, tol:容許誤差, unit:"單位", hint:"提示"}
-若無則設為空陣列: const FORMULAS=[];
+若無則設為空陣列:
 ============================================================ */
 const FORMULAS=[
-{id:"f1",name:"範例公式",name_en:"Sample Formula",formula:"C = A + B",kp:"sample_kp1",
-gen(){const A=Math.floor(Math.random()*10)+1;const B=Math.floor(Math.random()*10)+1;const en=LANG==='en';
-return{q:en?`A = ${A}, B = ${B}, find C = A + B`:`A = ${A}，B = ${B}，求 C = A + B`,a:A+B,tol:0.1,unit:"",hint:`C = ${A} + ${B}`};}},
+{id:"f1",name:"光行時間",name_en:"Light Travel Time",formula:"t = d / c",kp:"earth_sun",
+ gen(){const AU=[1,2,5,10][Math.floor(Math.random()*4)];const en=LANG==='en';
+  return{q:en?`Distance = ${AU} AU, light takes 8.3 min per AU. Find time = ___ min`:`距離 ${AU} AU，光每 AU 約 8.3 分鐘，求時間 = ___ 分鐘`,a:AU*8.3,tol:0.5,unit:"分鐘",hint:`t = ${AU} × 8.3`};}},
 ];
-/* ============================================================
-看到關鍵字就反應的快速記憶卡
-格式: {cue:"提示", cue_en:"English cue", a:"答案（中文）", a_en:"English answer", kp:"知識點ID"}
-若無則設為空陣列: const RECOG=[];
-============================================================ */
 const RECOG=[
-{cue:"範例提示一",cue_en:"Sample cue one",a:"範例答案一",a_en:"Sample answer one",kp:"sample_kp1"},
-{cue:"範例提示二",cue_en:"Sample cue two",a:"範例答案二",a_en:"Sample answer two",kp:"sample_kp2"},
+{cue:"Red Planet",cue_en:"Red Planet",a:"火星（Mars）",a_en:"Mars",kp:"terrestrial"},
+{cue:"Morning Star",cue_en:"Morning Star",a:"金星（Venus）",a_en:"Venus",kp:"terrestrial"},
+{cue:"最大行星",cue_en:"Largest planet",a:"木星（Jupiter）",a_en:"Jupiter",kp:"gas_giants"},
+{cue:"光環",cue_en:"Rings",a:"土星（Saturn）",a_en:"Saturn",kp:"gas_giants"},
 ];
-/* 故障診斷 / 程序訓練用的題目ID（可為空陣列） */
 const TS_IDS=[]; const PROC_IDS=[];
 /* ============ 通用常數（一般不需修改） ============ */
 const ERRTYPES=[["concept","概念錯","Concept error"],["definition","定義錯","Definition error"],["calculation","計算錯","Calculation error"],["unit","單位錯","Unit error"],["procedure","程序錯","Procedure error"],["sequence","順序錯","Sequence error"],["location","位置錯","Location error"],["terminology","術語錯","Terminology error"],["recognition","題目辨識錯","Recognition error"],["careless","粗心","Careless mistake"]];
@@ -1340,4 +1375,9 @@ QUESTIONS_RAW=QUESTIONS;LANG=(ST&&ST.lang)||'en';applyLang();applyTheme();applyS
 nav();render();initMemory();
 </script>
 </body>
-</html>
+</html>const FORMULAS=[
+{id:"f1",name:"光行時間",name_en:"Light Travel Time",formula:"t = d / c",kp:"earth_sun",
+ gen(){const AU=[1,2,5,10][Math.floor(Math.random()*4)];const en=LANG==='en';
+  return{q:en?`Distance = ${AU} AU, light takes 8.3 min per AU. Find time = ___ min`:`距離 ${AU} AU，光每 AU 約 8.3 分鐘，求時間 = ___ 分鐘`,a:AU*8.3,tol:0.5,unit:"分鐘",hint:`t = ${AU} × 8.3`};}},
+];
+
