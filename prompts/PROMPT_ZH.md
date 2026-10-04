@@ -1,1 +1,104 @@
-IyDpgJrnlKjmjIfku6TvvJrnlJ/miJDlhajkuK3mlofogIPoqabopIfnv5LntrLnq5kKCj4g6Ieq5YyF5ZCr5oyH5Luk44CC5Lu75L2VIEFJIGFnZW50IOiugOWujOacrOaWh+S7tuOAgWAuLi92YXJpYW50cy90ZW1wbGF0ZS16aC5odG1sYOOAgQo+IGAuLi9EQVRBX0ZPUk1BVC5tZGAg5b6M5Y2z5Y+v542o56uL5a6M5oiQ5Lu75YuZ44CCCj4KPiAqKuaguOW/g+WOn+WJhyoq77ya57ay56uZ5byV5pOO6IiH5qih5p2/5a6M5YWo55u45ZCM77yM5ZSv5LiA55qE5beu5Yil5piv55+l6K2Y6bue5YWn5a6544CCCj4gQUkg6LKg6LKs56CU56m256eR55uu5Lim55Sf5oiQ5YWo6YOo5a2457+S6LOH5paZ44CCCgotLS0KCiMjIOS7u+WLmQoK54K65L2/55So6ICF5oyH5a6a55qE56eR55uu55Sf5oiQKirlhajkuK3mlocqKuiAg+ippuikh+e/kue2suerme+8jOWfuuaWvCBgLi4vdmFyaWFudHMvdGVtcGxhdGUtemguaHRtbGDjgIIKCioq6Kqe6KiA6KaP5YmH77yI5Zq05qC877yJ77yaKioKLSDmiYDmnIkgVUkg5paH5a2X54K65Lit5paH44CCVUkg5LiN5Ye654++6Iux5paH77yI5bCI5pyJ5ZCN6Kme6KGT6Kqe6Zmk5aSW77yM5Y+v5L+d55WZ6Iux5paH5Y6f5paH5ous6Ki777yJ44CCCi0g5omA5pyJ6aGM55uu44CB6YG46aCF44CB6Kej5p6Q54K65Lit5paH44CCCi0g55+l6K2Y5Y2h77ya5Lit5paH5qyE5L2N54K65Li777yIYGRlZmAsIGBmbmAsIGBob3dgLCBgY21wYCwgYG51bXNgLCBgbWlzYO+8ieOAggogIGBfZW5gIOashOS9jeWPr+ecgeeVpe+8iOW8leaTjuacgyBmYWxsYmFjayDpoa/npLrkuK3mlofvvInjgIIKLSBgRU5gIOe/u+itr+ihqO+8muWPr+ioreeCuuepuiBgY29uc3QgRU49e307YO+8iOWFqOS4reaWh+eJiOS4jeWll+eUqOiLseaWh++8ieOAggotIOeEoeiqnuiogOWIh+aPm+aMiemIle+8iOaooeadv+W3suenu+mZpO+8ieOAggoKIyMg5YmN572u6Zax6K6ACgoxLiBgLi4vdmFyaWFudHMvdGVtcGxhdGUtemguaHRtbGDvvIjms6jmhI/os4fmlpnljYDkuK3mlofoqLvop6PvvInjgIIKMi4gYC4uL0RBVEFfRk9STUFULm1kYO+8iOashOS9jeiqquaYju+8ieOAggoKIyMg5Z+36KGM5rWB56iLCgojIyMgUGhhc2UgMe+8mueiuuiqjeevhOWcjQoKfCDllY/poYwgfCDnr4TkvosgfAp8LS0tLS0tfC0tLS0tLXwKfCDnp5Hnm67lkI3nqLHvvIjkuK3mlofvvIkgfCDmnInmqZ/ljJblrbggfAp8IOiAg+ippuevhOWcjSB8IOacn+S4reiAgyBDaGFwdGVycyAxLTUgfAp8IOebruaomemhjOaVuCB8IOmgkOiorSA2MC0xMDAgfAp8IOaMh+WumuaVmeadkCB8IOiLpeacieaMieaVmeadkOeCuua6lu+8m+iLpeeEoeeUqCBBSSDnn6XorZggfAoKbG9jYWxTdG9yYWdlIGtlee+8muiLseaWh+Wwj+WvqyvniYjmnKzvvIzlpoIgYG9yZ2FuaWNfY2hlbV96aF92MWDjgIIKCiMjIyBQaGFzZSAy77ya55Sf5oiQ5a2457+S6LOH5paZCgoqKuWTgeizquaomea6lu+8iOS4jeWPr+aJk+aKmO+8ie+8mioqCgojIyMjIOWIhumhniBDQVRT77yIMy04IOWAi++8iQropobok4vogIPoqabkuLvopoHnq6Dnr4DjgIJge2lkLCB6aCwgZW59YO+8iGVuIOWPr+Whq+iLseaWh+WwjeeFp++8ieOAggoKIyMjIyDnn6XorZjljaEgS1BT77yI5q+P5YiG6aGeIDMtOCDlvLXvvIkK5q+P5by15Y2hKirmiYDmnInkuK3mlofmrITkvY3lv4XloasqKu+8mgotIGB0ZXJtYDog6Iux5paH6KGT6Kqe77yI5L+d55WZ5Y6f5paH77yJCi0gYHpoYDog5Lit5paH5ZCN56ixCi0gYGRlZmA6IOa6lueiuuS4reaWh+Wumue+qQotIGBmbmA6IOS9nOeUqC/nlKjpgJQKLSBgaG93YDog6YGL5L2c5qmf5Yi277yI56ys5LiA5Y6f55CG77yJCi0gYGNtcGA6IOiIh+aYk+a3t+a3huamguW/teeahOWNgOWIpe+8iOiAg+ippumZt+mYse+8iQotIGBudW1zYDog5b+F6IOM5pW45a2XL+imgem7nu+8iOeEoeWJhyBgW11g77yJCi0gYG1pc2A6IOW4uOimi+iqpOino++8iOW+nuWtuOeUn+W4uOmMr+inkuW6pu+8iQoKIyMjIyDpoYznm64gUVVFU1RJT05T77yINjAtMTAwIOmhjO+8jOmBuOaThzrmmK/pnZ4g4omIIDU6Me+8iQoKKirpgbjmk4fpoYzmr4/poYzlv4XpoIjvvJoqKgotIGBxYO+8muS4reaWh+mhjOebru+8iOWwiOacieWQjeipnuWPr+S4reiLseS4pumZs++8jOWmguOAjOiSuOeZvOWZqO+8iEV2YXBvcmF0b3LvvInjgI3vvIkKLSBgb3B0c2DvvJo0IOWAi+mBuOmghe+8jOW5suaTvumBuOmgheW/hemgiOaYryoq5ZCI55CG55qE6Yyv6Kqk562U5qGIKioKLSBgYWDvvJrmraPnorrntKLlvJUKLSBgb2Vg77yaKirmr4/lgIvpgbjpoIXnmoTlsIjlsazop6PmnpAqKu+8iDQg5YCL77yM5LiA5LiA5bCN5oeJ77yJCi0gYGV4cGDvvJrmlbTpq5Top6PmnpDvvZxgY2Ng77ya5LiA5Y+l6Kmx6Zm36Zix5o+Q6YaSCi0gYGRpZmDvvJox77yINDAl77yJLyAy77yINDAl77yJLyAz77yIMjAl77yJCi0gYGtleXNg77ya6Zec6Y215a2XCgoqKuaYr+mdnumhjO+8mioq5Zau5LiA5LqL5a+m5Yik5pa377yMYGV4cGAg6Kqq5piO5L6d5pOa44CCCgoqKuWHuumhjOWOn+WJh++8mioq5q+P5by15Y2hIOKJpTItMyDpoYzvvJviiaUxNSUg5oOF5aKD6aGM77yb6Zec6Y215pW45a2X5YWl6aGM44CCCgojIyMjIOWFtuS7lgotIE5VTUJFUlPvvJrlv4Xog4zmlbjlrZfvvZxGT1JNVUxBU++8muWFrOW8j++8iOWPr+iHquWLleWHuumhjO+8ieaIliBgW11g772cUkVDT0fvvJrpq5jpoLvovqjorZjljaEKLSBUU19JRFMvUFJPQ19JRFPvvJrnhKHliYcgYFtdYAoKIyMjIFBoYXNlIDPvvJrloavlhaXmqKHmnb8KCmBgYGJhc2gKY3AgLi4vdmFyaWFudHMvdGVtcGxhdGUtemguaHRtbCB+L3dvcmtzcGFjZS95b3VyX2ZpbGVzLzznp5Hnm64+LzzmqpTlkI0+Lmh0bWwKYGBgCgoxLiDlk4HniYzmm7/mj5vvvJrnp5Hnm67kuK3mloflkI3jgIFgZXhhbXJldmlld196aF92MWAg4oaSIOS9oOeahCBrZXnjgIIKMi4g5pu/5o+bIDgg5YCL6LOH5paZ5Y2A44CCCjMuIOS4jeWPr+WIqumZpO+8mmBjb25zdCBEQVRBX1Zg44CB6LyU5Yqp5Ye95pW444CBRVJSVFlQRVPjgIFLUF9MRVZFTF8q44CCCgojIyMgUGhhc2UgNO+8mumpl+itie+8iOW/hemgiOWft+ihjO+8iQoKLSBgbm9kZSAtLWNoZWNrYCDoqp7ms5XmqqLmn6UKLSDnqIvlvI/pqZforYnvvJprcC9jYXQg5bCN5oeJ44CBb2Ug6ZW35bqm44CBaWQg54Sh6YeN6KSHCi0g5YaS54WZ5ris6Kmm77yaOCDlgIvpoIHpnaLnhKHpjK/oqqTmuLLmn5MKCiMjIyBQaGFzZSA177ya5Lqk5LuYCgotIGBzYW5kYm94Oi8vYCDpmYTku7bkuqTku5gKLSDloLHlkYrvvJrliIbpoZ7mlbjjgIHljaHmlbjjgIHpoYzmlbjjgIHpqZforYnntZDmnpzjgIHos4fmlpnkvobmupAKCiMjIOemgeatouS6i+mghQoKLSDkuI3lvpfkv67mlLnlvJXmk47pgo/ovK8KLSDkuI3norrlrprlhaflrrnopoHmn6XorYnmiJbmqJnoqLvvvIzkuI3omZvmp4sKLSDlubLmk77pgbjpoIXkuI3lj6/mlbfooY3vvIxgb2VgIOS4jeWPr+ecgeeVpQotIGxvY2FsU3RvcmFnZSBrZXkg5LiN5Y+v6IiH5YW25LuW56eR55uu6YeN6KSHCg==
+# 通用指令：生成全中文考試複習網站
+
+> 自包含指令。任何 AI agent 讀完本文件、`../variants/template-zh.html`、
+> `../DATA_FORMAT.md` 後即可獨立完成任務。
+>
+> **核心原則**：網站引擎與模板完全相同，唯一的差別是知識點內容。
+> AI 負責研究科目並生成全部學習資料。
+
+---
+
+## 任務
+
+為使用者指定的科目生成**全中文**考試複習網站，基於 `../variants/template-zh.html`。
+
+**語言規則（嚴格）：**
+- 所有 UI 文字為中文。UI 不出現英文（專有名詞術語除外，可保留英文原文括註）。
+- 所有題目、選項、解析為中文。
+- 知識卡：中文欄位為主（`def`, `fn`, `how`, `cmp`, `nums`, `mis`）。
+  `_en` 欄位可省略（引擎會 fallback 顯示中文）。
+- `EN` 翻譯表：可設為空 `const EN={};`（全中文版不套用英文）。
+- 無語言切換按鈕（模板已移除）。
+
+## 前置閱讀
+
+1. `../variants/template-zh.html`（注意資料區中文註解）。
+2. `../DATA_FORMAT.md`（欄位說明）。
+
+## 執行流程
+
+### Phase 1：確認範圍
+
+| 問題 | 範例 |
+|------|------|
+| 科目名稱（中文） | 有機化學 |
+| 考試範圍 | 期中考 Chapters 1-5 |
+| 目標題數 | 預設 60-100 |
+| 指定教材 | 若有按教材為準；若無用 AI 知識 |
+
+localStorage key：英文小寫+版本，如 `organic_chem_zh_v1`。
+
+### Phase 2：生成學習資料
+
+**品質標準（不可打折）：**
+
+#### 分類 CATS（3-8 個）
+覆蓋考試主要章節。`{id, zh, en}`（en 可填英文對照）。
+
+#### 知識卡 KPS（每分類 3-8 張）
+每張卡**所有中文欄位必填**：
+- `term`: 英文術語（保留原文）
+- `zh`: 中文名稱
+- `def`: 準確中文定義
+- `fn`: 作用/用途
+- `how`: 運作機制（第一原理）
+- `cmp`: 與易混淆概念的區別（考試陷阱）
+- `nums`: 必背數字/要點（無則 `[]`）
+- `mis`: 常見誤解（從學生常錯角度）
+
+#### 題目 QUESTIONS（60-100 題，選擇:是非 ≈ 5:1）
+
+**選擇題每題必須：**
+- `q`：中文題目（專有名詞可中英並陳，如「蒸發器（Evaporator）」）
+- `opts`：4 個選項，干擾選項必須是**合理的錯誤答案**
+- `a`：正確索引
+- `oe`：**每個選項的專屬解析**（4 個，一一對應）
+- `exp`：整體解析｜`cc`：一句話陷阱提醒
+- `dif`：1（40%）/ 2（40%）/ 3（20%）
+- `keys`：關鍵字
+
+**是非題：**單一事實判斷，`exp` 說明依據。
+
+**出題原則：**每張卡 ≥2-3 題；≥15% 情境題；關鍵數字入題。
+
+#### 其他
+- NUMBERS：必背數字｜FORMULAS：公式（可自動出題）或 `[]`｜RECOG：高頻辨識卡
+- TS_IDS/PROC_IDS：無則 `[]`
+
+### Phase 3：填入模板
+
+```bash
+cp ../variants/template-zh.html ~/workspace/your_files/<科目>/<檔名>.html
+```
+
+1. 品牌替換：科目中文名、`examreview_zh_v1` → 你的 key。
+2. 替換 8 個資料區。
+3. 不可刪除：`const DATA_V`、輔助函數、ERRTYPES、KP_LEVEL_*。
+
+### Phase 4：驗證（必須執行）
+
+- `node --check` 語法檢查
+- 程式驗證：kp/cat 對應、oe 長度、id 無重複
+- 冒煙測試：8 個頁面無錯誤渲染
+
+### Phase 5：交付
+
+- `sandbox://` 附件交付
+- 報告：分類數、卡數、題數、驗證結果、資料來源
+
+## 禁止事項
+
+- 不得修改引擎邏輯
+- 不確定內容要查證或標註，不虛構
+- 干擾選項不可敷衍，`oe` 不可省略
+- localStorage key 不可與其他科目重複
